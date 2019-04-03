@@ -7,6 +7,8 @@ module Scout
           ACTIVE_SIGN = ['Active', 'ACT']
           DELETED_COMPANY_SIGN = 'D'
 
+          attr_reader :config
+
           def initialize(config)
             @config = config
           end
@@ -75,7 +77,7 @@ module Scout
             {
               query: {
                 "match": {
-                  "company_name_vn": "VIEN"
+                  "company_name_vn": config.query[:keyword]
                 }
               }
             }

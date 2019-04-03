@@ -2,12 +2,10 @@ module Api
   module V1
     class PostsController < ApplicationController
 
-      # TODO
-      BASIC_PARAMS = %i[
-        recommended
-        keywords
-        age_range
-      ].freeze
+      # TODO(trung) Add more params here
+      BASIC_PARAMS = [
+        :keyword
+      ]
 
       def index
         client = Elasticsearch::Client.new log: true
@@ -32,7 +30,8 @@ module Api
       end
 
       def search_params
-        BASIC_PARAMS
+        params
+          .permit(BASIC_PARAMS)
       end
     end
   end
