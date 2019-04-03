@@ -22,8 +22,21 @@ module Scout
             [{ _score: :desc }]
           end
 
+          def score
+            {
+              function_score: {
+                score_mode: :sum,
+                boost_mode: :sum,
+                functions: score_query_functions,
+              }
+            }
+          end
+
           def score_query_functions
-            # TODO
+            r = []
+            r += Attractive.new.score_function
+            # TODO(Trung): add more score scripts
+            r
           end
         end
       end

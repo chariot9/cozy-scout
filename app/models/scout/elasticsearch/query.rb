@@ -9,14 +9,17 @@ module Scout
       end
 
       def query
-        # TODO chagne config here
-        {
+        r = {
           size: 5,
           from: 0,
-          # fields: [],
-          # filter: base_filter_query.query,
+          fields: [],
+          filter: base_filter_query.query,
           sort: recommend_sort_query.sort_query
         }
+
+        # TODO(trung) Add score function later
+        # r.merge!(query: recommend_sort_query.score)
+        r
       end
 
       private

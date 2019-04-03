@@ -7,7 +7,7 @@ gem 'rails', '~> 5.2.2', '>= 5.2.2.1'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 3.11'
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'elasticsearch'
+gem 'elasticsearch', '>= 1.1.3'
 gem 'dotenv-rails'
 
 group :development, :test do
