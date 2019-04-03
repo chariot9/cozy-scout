@@ -1,6 +1,6 @@
 module Api
   module V1
-    class PostsController < ApplicationController
+    class SearchController < ApplicationController
 
       # TODO(trung) Add more params here
       BASIC_PARAMS = [
