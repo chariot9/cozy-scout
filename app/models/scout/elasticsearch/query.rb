@@ -18,7 +18,7 @@ module Scout
         }
 
         # TODO(trung) Add score function later
-        # r.merge!(query: recommend_sort_query.score)
+        r.merge!(query: recommend_sort_query.score)
         r
       end
 

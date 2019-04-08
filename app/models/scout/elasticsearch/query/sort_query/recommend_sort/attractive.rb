@@ -10,9 +10,9 @@ module Scout
                 {
                   script_score: {
                     params: {
-                      weight: 300,
+                      weight: 30,
                     },
-                    script: 'weight * number_of_empl'
+                    script: 'weight * _source.number_of_empl'
                   }
                 }
               ]
