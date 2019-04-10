@@ -28,6 +28,7 @@ As you know, `Private company` is a company which isn't listed in `Stock market`
 #### What is the output?
 
 Result will be returned as Json format:
+Searching query: `http://localhost:3001/api/v1/search?keyword=VIEN`
 
 ```json
 {
@@ -71,4 +72,62 @@ Result contains list of `company id, company name, score`
 - TBD
 
 #### Metric of score functions
-- TBD
+- Step 1: Filter
+   + Filter only active companies
+   ```ruby
+	   # Filter only active companies
+        def active_companies
+          {
+            bool: {
+              must_not: {
+                term: {
+                  enterprise_status_id: ACTIVE_SIGN
+                }
+              }
+            }
+          }
+        end
+   ```
+   + Filter only existing companies
+   ```
+	   # Filter only the existing company (not marked as deleted)
+        def existing_companies
+          {
+            not: {
+              term: {
+                action_code: DELETED_COMPANY_SIGN
+              }
+            }
+          }
+        end
+   ```
+   + Keyword matching:
+   ```
+	   # Match search keyword in company_name_vn
+        def match
+          {
+            query: {
+              multi_match: {
+                query: config.query[:keyword],
+                fields: ["company_name_vn", "company_name_en", "website", "registered_address_vn", "registered_address_en", "company_type"]
+              }
+            }
+          }
+        end
+   ```
+- Step 2: Scoring
+   + Attractive factor: base on number of the companies
+    ```ruby
+		def score_function
+          [
+            {
+              script_score: {
+                params: {
+                  weight: 30
+                },
+                script: 'weight * _source.number_of_empl'
+              }
+            }
+          ]
+        end
+    ```
