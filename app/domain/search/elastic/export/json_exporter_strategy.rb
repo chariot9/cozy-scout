@@ -7,6 +7,7 @@ module Search
           {
             total_count: data.total_count,
             company_ids: data.company_ids,
+            company_names: data.company_names,
             scores: data.scores,
             explains: data.explains,
             options: data.options

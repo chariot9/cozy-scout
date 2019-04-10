@@ -52,11 +52,13 @@ module Search
           }
         end
 
+        # Match search keyword in company_name_vn
         def match
           {
             query: {
-              "match": {
-                "company_name_vn": config.query[:keyword]
+              multi_match: {
+                query: config.query[:keyword],
+                fields: ["company_name_vn", "company_name_en", "website", "registered_address_vn", "registered_address_en", "company_type"]
               }
             }
           }

@@ -15,7 +15,8 @@ module Search
             fields: [],
             filter: filter.query,
             sort: sort.sort,
-            query: sort.function_score
+            query: sort.function_score,
+            _source: ["company_id", "company_name_vn", "company_name_en", "website", "registered_address_vn", "registered_address_en", "company_type"]
           }
         end
       end
