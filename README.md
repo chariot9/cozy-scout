@@ -1,7 +1,7 @@
 `Since the road is continuing eternally, let's drive forever!` -- Trung Vu
 
 ## Getting started
-`cozy-scout` - Private company information searching API with Ruby on Rails and Elasticsearch
+`cozy-scout` Private company information searching API with Ruby on Rails and Elasticsearch
 
 
 #### What is `Private company information`?
@@ -20,10 +20,10 @@ As you know, `Private company` is a company which isn't listed in `Stock market`
 31 | 2000401090 | CONG TY CP THUC PHAM THUY SAN XUAT KHAU CA MAU | FINE FOODS CO
 
 - Description: 
-   +  id: ID of company
-   +  tax_code: registration tax code
-   +  company_name_vn: Company name in Vietnamese
-   +  company_name_en: Company name in English
+   +  `id`: ID of company
+   +  `tax_code`: registration tax code
+   +  `company_name_vn`: Company name in Vietnamese
+   +  `company_name_en`: Company name in English
 
 #### What is the output?
 
@@ -68,4 +68,7 @@ Result will be returned as Json format:
 Result contains list of `company id, company name, score`
 
 #### How did I build the the API?
+- TBD
+
+#### Metric of score functions
 - TBD
