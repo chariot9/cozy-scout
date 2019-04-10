@@ -69,11 +69,17 @@ Searching query: `http://localhost:3001/api/v1/search?keyword=VIEN`
 Result contains list of `company id, company name, score`
 
 #### How did I build the the API?
-- TBD
+- The API contains **three mains layers**:
+  + **Infrastructure:**
+    Contains the logic to access data from Elasticsearch, Elasticsearch configuration for searching (factor weight, filter logic...).
+  + **Core logic:**
+	Contains the core logic of API, main classes, data classes/objects.
+  + **Interface:**
+	API endpoint, searching layer, building search params, search options and pass it to **Core logic** and get the result and pass it to client as JSON format.
 
 #### Metric of score functions
-- Step 1: Filter
-   + Filter only active companies
+- **Step 1: Filter**
+   + **Filter only active companies:**
    ```ruby
 	   # Filter only active companies
         def active_companies
@@ -88,8 +94,8 @@ Result contains list of `company id, company name, score`
           }
         end
    ```
-   + Filter only existing companies
-   ```
+   + **Filter only existing companies:**
+   ```ruby
 	   # Filter only the existing company (not marked as deleted)
         def existing_companies
           {
@@ -101,8 +107,8 @@ Result contains list of `company id, company name, score`
           }
         end
    ```
-   + Keyword matching:
-   ```
+   + **Keyword matching:**
+   ```ruby
 	   # Match search keyword in company_name_vn
         def match
           {
@@ -115,8 +121,8 @@ Result contains list of `company id, company name, score`
           }
         end
    ```
-- Step 2: Scoring
-   + Attractive factor: base on number of the companies
+- **Step 2: Scoring**
+   + **Attractive factor:** base on number of employee for each company
     ```ruby
 		def score_function
           [
