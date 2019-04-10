@@ -1,202 +1,1602 @@
-  { "index": {} }
-  {"company_id": 1, "nbrs_id": "4484", "registration_tax_code": "2000327224", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN KIEU DIEM \"A\"", "company_name_en": null, "short_name": null, "incorporation_date": "2000-05-11", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 86, duong Phan Boi Chau, Phuong 7, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 7, (Fulltext: So 86, duong Phan Boi Chau, Phuong 7, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290.3831548", "website": null, "number_of_empl": 10, "amendment_date": "2017-08-04", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 2, "nbrs_id": "4591", "registration_tax_code": "2000357370", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN THANH AN", "company_name_en": null, "short_name": null, "incorporation_date": "2001-05-10", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 104, duong Phan Boi Chau, khom 3, Phuong 7, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 7, (Fulltext: So 104, duong Phan Boi Chau, khom 3, Phuong 7, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290.3820826", "website": null, "number_of_empl": 4, "amendment_date": "2017-10-09", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 3, "nbrs_id": "4601", "registration_tax_code": "2000597358", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN NHU Y", "company_name_en": null, "short_name": null, "incorporation_date": "2009-04-24", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "Ap 2, Xa Tri Phai, Huyen Thoi Binh, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Thoi Binh, Ward: Xa Tri Phai, (Fulltext: Ap 2, Xa Tri Phai, Huyen Thoi Binh, Ca Mau, Vietnam)", "phone_number": "0909849958", "website": null, "number_of_empl": 5, "amendment_date": "2017-09-14", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 4, "nbrs_id": "4661", "registration_tax_code": "2000378500", "nbrs_code": null, "company_name_vn": "DOANH NGHIEP TN TRAN VAN TIEN", "company_name_en": null, "short_name": null, "incorporation_date": "2006-08-11", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Private enterprise", "registered_address_vn": "Can so 17, khu vuc Cho Nong san thuc pham, khom 2, Phuong 7, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 7, (Fulltext: Can so 17, khu vuc Cho Nong san thuc pham, khom 2, Phuong 7, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290.3827231", "website": null, "number_of_empl": 6, "amendment_date": "2017-10-05", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 5, "nbrs_id": "4803", "registration_tax_code": "2000404870", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THANH KIEM", "company_name_en": null, "short_name": null, "incorporation_date": "2009-01-07", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Ap Tan Thuan, Xa Phong Dien, Huyen Tran Van Thoi, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Tran Van Thoi, Ward: Xa Phong Dien, (Fulltext: Ap Tan Thuan, Xa Phong Dien, Huyen Tran Van Thoi, Ca Mau, Vietnam)", "phone_number": "0917217890", "website": null, "number_of_empl": 4, "amendment_date": "2017-06-09", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 6, "nbrs_id": "5086", "registration_tax_code": "2000108818", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN BA DEN", "company_name_en": null, "short_name": null, "incorporation_date": "1997-06-16", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 16, duong Ly Thuong Kiet, khom 1, Phuong 7, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 7, (Fulltext: So 16, duong Ly Thuong Kiet, khom 1, Phuong 7, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290 3831902;   0913893162", "website": null, "number_of_empl": 7, "amendment_date": "2017-05-12", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 7, "nbrs_id": "5259", "registration_tax_code": "2000484837", "nbrs_code": "0000167819", "company_name_vn": "CÔNG TY TNHH CHẾ BIẾN BỘT CÁ KHẢI HOÀN", "company_name_en": null, "short_name": null, "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC2", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 8, "nbrs_id": "5489", "registration_tax_code": "2000525219", "nbrs_code": "0000170348", "company_name_vn": "DOANH NGHIỆP TN KIỀU THU", "company_name_en": null, "short_name": null, "incorporation_date": null, "parent_id": null, "enterprise_status_id": "REV", "enterprise_type_id": "PE", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 9, "nbrs_id": "5492", "registration_tax_code": "2000527350", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN THUY SAN THIEN MA", "company_name_en": "THIMEX LTD., COMPANY", "short_name": null, "incorporation_date": "2009-12-01", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 266C, duong Ly Thuong Kiet, khom 9, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: So 266C, duong Ly Thuong Kiet, khom 9, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0918.777.666", "website": null, "number_of_empl": 4, "amendment_date": "2017-07-07", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 10, "nbrs_id": "5530", "registration_tax_code": "2000257030", "nbrs_code": "0000170798", "company_name_vn": "DOANH NGHIỆP TN THANH CHÂU", "company_name_en": null, "short_name": null, "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "PE", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 11, "nbrs_id": "5554", "registration_tax_code": "2000544973", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN QUY TAM NHAN", "company_name_en": null, "short_name": null, "incorporation_date": "2009-02-24", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "Duong Ly Thuong Kiet, khom 9, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: Duong Ly Thuong Kiet, khom 9, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290.3847979; 0913959883", "website": null, "number_of_empl": 4, "amendment_date": "2017-08-31", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 12, "nbrs_id": "5593", "registration_tax_code": "2000405514", "nbrs_code": null, "company_name_vn": "DOANH NGHIEP TN NHAT PHAT", "company_name_en": null, "short_name": null, "incorporation_date": "2003-08-14", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Private enterprise", "registered_address_vn": "So 31, ap 3, Xa Tac Van, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Xa Tac Van, (Fulltext: So 31, ap 3, Xa Tac Van, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290 3846007", "website": null, "number_of_empl": 5, "amendment_date": "2017-05-11", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 13, "nbrs_id": "5607", "registration_tax_code": "2000272889", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUONG MAI SAN XUAT ANH KIET", "company_name_en": null, "short_name": null, "incorporation_date": "1999-03-31", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 242A, Duong Tran Hung Dao, Phuong 5, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 5, (Fulltext: So 242A, Duong Tran Hung Dao, Phuong 5, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "07803 552329", "website": null, "number_of_empl": 20, "amendment_date": "2016-07-08", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 14, "nbrs_id": "5616", "registration_tax_code": "2000314063", "nbrs_code": null, "company_name_vn": "DOANH NGHIEP TN THAI BINH", "company_name_en": null, "short_name": null, "incorporation_date": "2000-01-27", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Private enterprise", "registered_address_vn": "So 32, duong Hung Vuong, khom 3, Phuong 5, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 5, (Fulltext: So 32, duong Hung Vuong, khom 3, Phuong 5, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290.3834225", "website": null, "number_of_empl": 5, "amendment_date": "2017-09-27", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 15, "nbrs_id": "5646", "registration_tax_code": "2000323540", "nbrs_code": null, "company_name_vn": "DOANH NGHIEP TN VIET HONG", "company_name_en": null, "short_name": null, "incorporation_date": "2000-03-22", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Private enterprise", "registered_address_vn": "So 82, duong Ly Thai Ton, khom 2, Phuong 4, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 4, (Fulltext: So 82, duong Ly Thai Ton, khom 2, Phuong 4, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3834278", "website": null, "number_of_empl": 4, "amendment_date": "2017-10-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 16, "nbrs_id": "5721", "registration_tax_code": "2000327640", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN 9 BAP", "company_name_en": null, "short_name": null, "incorporation_date": "2006-02-21", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 24, duong Ly Thuong Kiet, khom 5, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: So 24, duong Ly Thuong Kiet, khom 5, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0913986537", "website": null, "number_of_empl": 4, "amendment_date": "2017-10-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 17, "nbrs_id": "5725", "registration_tax_code": "2000455522", "nbrs_code": null, "company_name_vn": "DOANH NGHIEP TN THANH TAN", "company_name_en": null, "short_name": null, "incorporation_date": "2006-03-07", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Private enterprise", "registered_address_vn": "Ap Duong Dao, Xa Ho Thi Ky, Huyen Thoi Binh, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Thoi Binh, Ward: Xa Ho Thi Ky, (Fulltext: Ap Duong Dao, Xa Ho Thi Ky, Huyen Thoi Binh, Ca Mau, Vietnam)", "phone_number": "0913129146", "website": null, "number_of_empl": 6, "amendment_date": "2013-12-05", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 18, "nbrs_id": "5756", "registration_tax_code": "2000266733", "nbrs_code": null, "company_name_vn": "CONG TY TNHH XAY DUNG QUANG TIEN", "company_name_en": null, "short_name": null, "incorporation_date": "1997-04-19", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 138B, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 138B, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3581230", "website": null, "number_of_empl": 20, "amendment_date": "2016-12-30", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 19, "nbrs_id": "5760", "registration_tax_code": "2000360503", "nbrs_code": null, "company_name_vn": "CONG TY TNHH HIEP THANH", "company_name_en": null, "short_name": null, "incorporation_date": "2001-07-09", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 296, duong Nguyen Cong Tru, khom 8, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 296, duong Nguyen Cong Tru, khom 8, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "07803.700039", "website": null, "number_of_empl": 5, "amendment_date": "2016-08-15", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 20, "nbrs_id": "5838", "registration_tax_code": "2000413473", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUONG MAI NGOC ANH", "company_name_en": "NGOC ANH TRADING COMPANY LIMITED", "short_name": null, "incorporation_date": "2001-02-06", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Lau 2, so 144, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: Lau 2, so 144, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "07803.830516", "website": null, "number_of_empl": 30, "amendment_date": "2014-02-18", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 21, "nbrs_id": "5913", "registration_tax_code": "2000434674", "nbrs_code": null, "company_name_vn": "CONG TY TNHH CA PHE NAM SUONG", "company_name_en": null, "short_name": null, "incorporation_date": "2005-01-10", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 17-19, duong Pham Van Ky, khom 4, Phuong 2, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 2, (Fulltext: So 17-19, duong Pham Van Ky, khom 4, Phuong 2, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780 3831438.", "website": null, "number_of_empl": 73, "amendment_date": "2017-05-04", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 22, "nbrs_id": "5966", "registration_tax_code": "2000459767", "nbrs_code": "0000175595", "company_name_vn": "DOANH NGHIỆP TN MINH LUÂN", "company_name_en": null, "short_name": null, "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "PE", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 23, "nbrs_id": "5987", "registration_tax_code": "2000445098", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUONG MAI VA DICH VU TO THANH HIEN", "company_name_en": null, "short_name": null, "incorporation_date": "2005-10-13", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 145, duong Phan Boi Chau, khom 4, Phuong 7, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 7, (Fulltext: So 145, duong Phan Boi Chau, khom 4, Phuong 7, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "07803.838176", "website": null, "number_of_empl": 10, "amendment_date": "2015-08-07", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 24, "nbrs_id": "6063", "registration_tax_code": "2000463474", "nbrs_code": null, "company_name_vn": "CONG TY TNHH PHUONG NAM – PHONG KHAM DA KHOA  PHUONG NAM", "company_name_en": null, "short_name": null, "incorporation_date": "2006-10-04", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 61, duong Pham Hong Tham, Phuong 4, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 4, (Fulltext: So 61, duong Pham Hong Tham, Phuong 4, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290 3831095", "website": null, "number_of_empl": 20, "amendment_date": "2017-09-22", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 25, "nbrs_id": "6509", "registration_tax_code": "2000472623", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN MINH HY", "company_name_en": null, "short_name": null, "incorporation_date": "2007-03-05", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 118, duong Phan Boi Chau, khom 3, Phuong 7, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 7, (Fulltext: So 118, duong Phan Boi Chau, khom 3, Phuong 7, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0913986562", "website": null, "number_of_empl": 3, "amendment_date": "2017-10-03", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 26, "nbrs_id": "7053", "registration_tax_code": "2000489874", "nbrs_code": null, "company_name_vn": "CONG TY TNHH QUANG HOA", "company_name_en": null, "short_name": null, "incorporation_date": "2007-12-20", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 03, duong Trung Trac, khom 4, Phuong 2, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 2, (Fulltext: So 03, duong Trung Trac, khom 4, Phuong 2, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290 3831675", "website": null, "number_of_empl": 5, "amendment_date": "2017-06-16", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 27, "nbrs_id": "7093", "registration_tax_code": "2000930055", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUY SAN TRUONG HANH", "company_name_en": null, "short_name": null, "incorporation_date": "2010-01-05", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Ap Ba Dieu, Xa Ly Van Lam, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Xa Ly Van Lam, (Fulltext: Ap Ba Dieu, Xa Ly Van Lam, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0913722726", "website": null, "number_of_empl": 5, "amendment_date": "2014-06-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:34", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 28, "nbrs_id": "7179", "registration_tax_code": "2000503303", "nbrs_code": "0000188948", "company_name_vn": "CÔNG TY TNHH CHẾ BIẾN THỦY SẢN XUẤT NHẬP KHẨU MINH CHÂU", "company_name_en": "MINH CHAU IMPORT – EXPORT SEAFOOD PROCESSING COMPANY LIMITED", "short_name": "MINH CHAU ", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC2", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 29, "nbrs_id": "7251", "registration_tax_code": "2000336035", "nbrs_code": null, "company_name_vn": "CONG TY CP CHE BIEN THUY SAN XUAT KHAU TAC VAN", "company_name_en": "TACVAN SEAFOODS COMPANY", "short_name": null, "incorporation_date": "2000-04-24", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 180A, Ap Cay Tram A, Xa Dinh Binh, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Xa Dinh Binh, (Fulltext: So 180A, Ap Cay Tram A, Xa Dinh Binh, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290 3847589", "website": "www.tacvanseafoods.com", "number_of_empl": null, "amendment_date": "2017-08-07", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 30, "nbrs_id": "7255", "registration_tax_code": "2000390561", "nbrs_code": null, "company_name_vn": "CONG TY CP CHE BIEN VA XUAT NHAP KHAU THUY SAN THANH DOAN", "company_name_en": null, "short_name": null, "incorporation_date": "2002-10-04", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 01A, duong Truong Phung Xuan, khom 7, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 01A, duong Truong Phung Xuan, khom 7, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290.3828953, 0913986037", "website": null, "number_of_empl": 350, "amendment_date": "2017-08-30", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 31, "nbrs_id": "7256", "registration_tax_code": "2000401090", "nbrs_code": null, "company_name_vn": "CONG TY CP THUC PHAM THUY SAN XUAT KHAU CA MAU", "company_name_en": "FINE FOODS CO", "short_name": null, "incorporation_date": "2003-04-29", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "Ap Nam Dam, Xa Luong The Tran, Huyen Cai Nuoc, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Cai Nuoc, Ward: Xa Luong The Tran, (Fulltext: Ap Nam Dam, Xa Luong The Tran, Huyen Cai Nuoc, Ca Mau, Vietnam)", "phone_number": "0290.3776096 - 0290 3776089", "website": "ffc.com.vn", "number_of_empl": 200, "amendment_date": "2017-07-24", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 32, "nbrs_id": "7259", "registration_tax_code": "2000415417", "nbrs_code": null, "company_name_vn": "CONG TY CP MINH THANG", "company_name_en": null, "short_name": null, "incorporation_date": "2004-01-15", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 14, duong Hung Vuong, khom 3, Phuong 7, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 7, (Fulltext: So 14, duong Hung Vuong, khom 3, Phuong 7, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0919893299", "website": null, "number_of_empl": 30, "amendment_date": "2017-05-22", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 33, "nbrs_id": "7261", "registration_tax_code": "2000473271", "nbrs_code": null, "company_name_vn": "CONG TY TNHH SAN XUAT - THUONG MAI VA DICH VU THANH SON", "company_name_en": null, "short_name": null, "incorporation_date": "2007-04-17", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 219, duong Quang Trung, khom 3, Phuong 5, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 5, (Fulltext: So 219, duong Quang Trung, khom 3, Phuong 5, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3831367", "website": null, "number_of_empl": 40, "amendment_date": "2017-03-06", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 34, "nbrs_id": "7268", "registration_tax_code": "2000478199", "nbrs_code": null, "company_name_vn": "CONG TY TNHH TRONG TIN", "company_name_en": "TRONG TIN COMPANY LIMITED", "short_name": null, "incorporation_date": "2007-07-05", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 8B, duong Quang Trung, khom 2, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: , Ward: , (Fulltext: So 8B, duong Quang Trung, khom 2, Ca Mau, Vietnam)", "phone_number": "0780.3832833; 0913903525", "website": null, "number_of_empl": null, "amendment_date": "2009-01-07", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 35, "nbrs_id": "7292", "registration_tax_code": "2000371103", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUONG MAI VA DICH VU VINH QUANG", "company_name_en": "VINH QUANG TRADE - SERVICE CO., LTD", "short_name": null, "incorporation_date": "2001-11-30", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 12 - 14, duong Trung Nhi, Phuong 2, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 2, (Fulltext: So 12 - 14, duong Trung Nhi, Phuong 2, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "07803834040", "website": "vinhquangcamau.com.vn", "number_of_empl": 10, "amendment_date": "2013-06-03", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 36, "nbrs_id": "7318", "registration_tax_code": "2000421682", "nbrs_code": null, "company_name_vn": "CONG TY CP DAU TU VA XAY DUNG CA MAU", "company_name_en": null, "short_name": null, "incorporation_date": "2004-05-19", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 176-Phan Ngoc Hien, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: So 176-Phan Ngoc Hien, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290.3831302; 3821190", "website": null, "number_of_empl": 50, "amendment_date": "2017-09-01", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 37, "nbrs_id": "7326", "registration_tax_code": "2000492299", "nbrs_code": null, "company_name_vn": "CONG TY CP PHAT TRIEN DO THI DAU KHI", "company_name_en": "PETROVIETNAM URBAN DEVELOPMENT JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2008-01-25", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "131 Tran Hung Dao, Phuong An Phu, Quan Ninh Kieu, Thanh pho Can Tho, Viet Nam", "registered_address_en": "City: Can Tho, District: Quan Ninh Kieu, Ward: Phuong An Phu, (Fulltext: 131 Tran Hung Dao, Phuong An Phu, Quan Ninh Kieu, Can Tho, Vietnam)", "phone_number": "07103.735.678", "website": null, "number_of_empl": 555, "amendment_date": "2016-05-24", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 38, "nbrs_id": "7343", "registration_tax_code": "2000483600", "nbrs_code": "0000190756", "company_name_vn": "CÔNG TY CP THƯƠNG MẠI  DỊCH VỤ VÀ XUẤT NHẬP KHẨU HUỲNH HƯƠNG", "company_name_en": "HUYNH HUONG TRADING AND IMPORT EXPORT JOINT STOCK COMPANY", "short_name": "HUYNH HUONG JSC", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "SC", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 39, "nbrs_id": "7384", "registration_tax_code": "2000109850", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN XANG DAU CA MAU", "company_name_en": "PETROLIMEX CAMAU CO.,LTD", "short_name": null, "incorporation_date": "1994-04-27", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 989, duong Ly Thuong Kiet, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: So 989, duong Ly Thuong Kiet, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3560872", "website": null, "number_of_empl": 173, "amendment_date": "2017-03-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 40, "nbrs_id": "7385", "registration_tax_code": "2000266927", "nbrs_code": "0000191205", "company_name_vn": "CÔNG TY TNHH MỘT THÀNH VIÊN XỔ SỐ KIẾN THIẾT CÀ MAU", "company_name_en": "CA MAU LOTTERY COMPANY LIMITED", "short_name": "XỔ SỐ CÀ MAU", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC1", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 41, "nbrs_id": "7386", "registration_tax_code": "2000397937", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN TAN HAI", "company_name_en": null, "short_name": null, "incorporation_date": "2003-01-08", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 01, duong Tran Hung Dao, Phuong 5, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 5, (Fulltext: So 01, duong Tran Hung Dao, Phuong 5, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3832855", "website": null, "number_of_empl": 50, "amendment_date": "2017-03-16", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 42, "nbrs_id": "7391", "registration_tax_code": "2000520884", "nbrs_code": null, "company_name_vn": "CONG TY CP VAT TU XAY DUNG MINH HAI", "company_name_en": "MINH HAI CONSTRUCTION MATERIAL JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2009-01-02", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 99, duong Ly Van Lam, khom 3, Phuong 1, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 1, (Fulltext: So 99, duong Ly Van Lam, khom 3, Phuong 1, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3831445", "website": null, "number_of_empl": 10, "amendment_date": "2016-09-06", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 43, "nbrs_id": "7404", "registration_tax_code": "2000717697", "nbrs_code": null, "company_name_vn": "CONG TY CP XUAT NHAP KHAU DAI DUONG XANH TOAN CAU", "company_name_en": "GLOBAL BLUE OCEAN IMPORT - EXPORT JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2009-06-25", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 999A, ap Nam Dam, Xa Luong The Tran, Huyen Cai Nuoc, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Cai Nuoc, Ward: Xa Luong The Tran, (Fulltext: So 999A, ap Nam Dam, Xa Luong The Tran, Huyen Cai Nuoc, Ca Mau, Vietnam)", "phone_number": "0919109168", "website": null, "number_of_empl": 50, "amendment_date": "2017-03-13", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 44, "nbrs_id": "7412", "registration_tax_code": "2000485206", "nbrs_code": null, "company_name_vn": "CONG TY CP VIET NAM ORGANICS", "company_name_en": "VIETNAM ORGANICS JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2007-10-15", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "Ap Hoa Trung, Xa Luong The Tran, Huyen Cai Nuoc, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Cai Nuoc, Ward: Xa Luong The Tran, (Fulltext: Ap Hoa Trung, Xa Luong The Tran, Huyen Cai Nuoc, Ca Mau, Vietnam)", "phone_number": "0780.3560535", "website": null, "number_of_empl": 50, "amendment_date": "2016-03-15", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 45, "nbrs_id": "7451", "registration_tax_code": "2000489578", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN BACH VIET", "company_name_en": "BACH VIET SOLE MEMBER LIMITED LIABILITY COMPANY", "short_name": null, "incorporation_date": "2007-12-14", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 232, duong Ly Van Lam, Phuong 1, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 1, (Fulltext: So 232, duong Ly Van Lam, Phuong 1, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3831800", "website": null, "number_of_empl": 30, "amendment_date": "2017-06-08", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 46, "nbrs_id": "7459", "registration_tax_code": "2000499939", "nbrs_code": "0000192031", "company_name_vn": "CÔNG TY TNHH MỘT THÀNH VIÊN THUỐC LÁ HẬU", "company_name_en": null, "short_name": null, "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC1", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 47, "nbrs_id": "7487", "registration_tax_code": "2000496952", "nbrs_code": "0000192341", "company_name_vn": "CÔNG TY TNHH ĐẠI LỢI", "company_name_en": "ĐAI LOI COMPANY LIMITED", "short_name": "ĐAI LOI CO.,LTD", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC2", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 48, "nbrs_id": "7526", "registration_tax_code": "2000524945", "nbrs_code": "0000192775", "company_name_vn": "CÔNG TY CP CHITIN ĐẠI PHÁT", "company_name_en": "DAI PHAT CHITIN JOINT STOCK COMPANY", "short_name": "DAI PHAT CHITIN JSC", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "SC", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 49, "nbrs_id": "7615", "registration_tax_code": "2000105020", "nbrs_code": null, "company_name_vn": "CONG TY CP THUY SAN CA MAU", "company_name_en": "SEAPRIMEXCO-VIETNAM", "short_name": null, "incorporation_date": "2004-10-21", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 8, duong Cao Thang, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 8, duong Cao Thang, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3831615;  3831230", "website": "www.seaprimexco.com", "number_of_empl": 100, "amendment_date": "2014-04-25", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 50, "nbrs_id": "7636", "registration_tax_code": "2000528629", "nbrs_code": null, "company_name_vn": "CONG TY TNHH CHE BIEN XUAT NHAP KHAU THUY SAN QUOC AI", "company_name_en": "QUOC AI SEAFOOD PROCESSING IMPORT-EXPORT COMPANY LIMITED", "short_name": null, "incorporation_date": "2009-03-13", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 63, ap Tac Thu, Xa Ho Thi Ky, Huyen Thoi Binh, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Thoi Binh, Ward: Xa Ho Thi Ky, (Fulltext: So 63, ap Tac Thu, Xa Ho Thi Ky, Huyen Thoi Binh, Ca Mau, Vietnam)", "phone_number": "0918336381", "website": null, "number_of_empl": 6, "amendment_date": "2017-07-03", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 51, "nbrs_id": "7640", "registration_tax_code": "2000440276", "nbrs_code": null, "company_name_vn": "CONG TY TNHH PHAT DAT", "company_name_en": null, "short_name": null, "incorporation_date": "2005-05-14", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Khu D9, tuyen duong D4, khu do thi moi Bach Dang, ap Ba Dieu, Xa Ly Van Lam, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Xa Ly Van Lam, (Fulltext: Khu D9, tuyen duong D4, khu do thi moi Bach Dang, ap Ba Dieu, Xa Ly Van Lam, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3567949", "website": null, "number_of_empl": 15, "amendment_date": "2015-09-11", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 52, "nbrs_id": "7652", "registration_tax_code": "2000455949", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUONG MAI VA DICH VU MO TO TRUNG NGHIA", "company_name_en": null, "short_name": null, "incorporation_date": "2005-10-05", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 162-165, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 162-165, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.6252777; 0903664042", "website": null, "number_of_empl": 15, "amendment_date": "2016-05-13", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 53, "nbrs_id": "7660", "registration_tax_code": "2000448211", "nbrs_code": null, "company_name_vn": "CONG TY TNHH LIEN", "company_name_en": null, "short_name": null, "incorporation_date": "2005-12-12", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 01, duong San Bay, Khu vuc 1, Khom 3, Thi Tran Nam Can, Huyen Nam Can, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Nam Can, Ward: Thi Tran Nam Can, (Fulltext: So 01, duong San Bay, Khu vuc 1, Khom 3, Thi Tran Nam Can, Huyen Nam Can, Ca Mau, Vietnam)", "phone_number": "0780.3876284", "website": null, "number_of_empl": 6, "amendment_date": "2016-07-26", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 54, "nbrs_id": "7686", "registration_tax_code": "2000101072", "nbrs_code": null, "company_name_vn": "CONG TY CP DU LICH - DICH VU MINH HAI", "company_name_en": "MINH HAI TOURIST AND SERVICES JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2005-09-26", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 01, duong Ly Bon, Phuong 4, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 4, (Fulltext: So 01, duong Ly Bon, Phuong 4, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3831464", "website": "dulichminhhaicamau.com", "number_of_empl": 50, "amendment_date": "2014-07-07", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 55, "nbrs_id": "7691", "registration_tax_code": "2000103908", "nbrs_code": null, "company_name_vn": "CONG TY CP CHE BIEN THUY SAN VA XUAT NHAP KHAU CA MAU", "company_name_en": "CA MAU FROZEN SEAFOOD PROCESSING IMPORT EXPORT CORPORATION", "short_name": null, "incorporation_date": "2006-01-12", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 333, duong Cao Thang, khom 7, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 333, duong Cao Thang, khom 7, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3831608", "website": "Camimex.com.vn", "number_of_empl": 1000, "amendment_date": "2016-11-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 56, "nbrs_id": "7692", "registration_tax_code": "2000100368", "nbrs_code": null, "company_name_vn": "CONG TY CP DUOC MINH HAI", "company_name_en": "MINH HAI PHARMACEUTICAL JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2006-01-26", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 322, duong Ly Van Lam, Phuong 1, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 1, (Fulltext: So 322, duong Ly Van Lam, Phuong 1, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3831133; 3832513; 3832308", "website": null, "number_of_empl": 20, "amendment_date": "2016-09-08", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 57, "nbrs_id": "7715", "registration_tax_code": "2000452923", "nbrs_code": null, "company_name_vn": "CONG TY TNHH GIAU", "company_name_en": null, "short_name": null, "incorporation_date": "2005-12-20", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 111B, ap 3, Xa Tac Van, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Xa Tac Van, (Fulltext: So 111B, ap 3, Xa Tac Van, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3847448", "website": null, "number_of_empl": 10, "amendment_date": "2011-03-10", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 58, "nbrs_id": "7724", "registration_tax_code": "2000453363", "nbrs_code": "0000194956", "company_name_vn": "CÔNG TY TNHH CHẾ BIẾN THUỶ SẢN NGỌC CHÂU", "company_name_en": "NGOC CHAU  SEAFOOD PROCESSING CO.,LTD", "short_name": "NGỌC CHÂU CO.,LTD", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC2", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 59, "nbrs_id": "7734", "registration_tax_code": "2000699448", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN THUY HAI SAN THANH DAT", "company_name_en": null, "short_name": null, "incorporation_date": "2009-06-04", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So 41-43, duong Nguyen Binh Khiem, khom 8, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 41-43, duong Nguyen Binh Khiem, khom 8, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3599999", "website": null, "number_of_empl": 5, "amendment_date": "2016-08-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 60, "nbrs_id": "7753", "registration_tax_code": "2000453370", "nbrs_code": null, "company_name_vn": "CONG TY CP CHE BIEN THUY SAN XUAT NHAP KHAU HOA TRUNG", "company_name_en": "HOA TRUNG SEAFOOD CORPORATION", "short_name": null, "incorporation_date": "2006-03-15", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "Ap Hoa Trung, Xa Luong The Tran, Huyen Cai Nuoc, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Huyen Cai Nuoc, Ward: Xa Luong The Tran, (Fulltext: Ap Hoa Trung, Xa Luong The Tran, Huyen Cai Nuoc, Ca Mau, Vietnam)", "phone_number": "0780.3776126", "website": null, "number_of_empl": 50, "amendment_date": "2014-10-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 61, "nbrs_id": "7755", "registration_tax_code": "2000393273", "nbrs_code": null, "company_name_vn": "CONG TY CP TAP DOAN THUY SAN MINH PHU", "company_name_en": "MINH PHU SEAFOOD JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2006-05-12", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "Khu cong nghiep phuong 8, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: Khu cong nghiep phuong 8, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.838262", "website": "www.Minhphu.com", "number_of_empl": 1500, "amendment_date": "2017-03-10", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 62, "nbrs_id": "7825", "registration_tax_code": "2000466115", "nbrs_code": null, "company_name_vn": "CONG TY CP CHE BIEN  THUY SAN XUAT NHAP KHAU MINH CUONG", "company_name_en": "MINH CUONG SEAFOOD IMPORT – EXPORT FROZEN PROCESSING JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2007-01-04", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 254, ap 3, Xa Tac Van, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Xa Tac Van, (Fulltext: So 254, ap 3, Xa Tac Van, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0913986136", "website": null, "number_of_empl": 200, "amendment_date": "2017-03-01", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 63, "nbrs_id": "7830", "registration_tax_code": "2000108952", "nbrs_code": null, "company_name_vn": "CONG TY CP CHE BIEN VA DICH VU THUY SAN CA MAU", "company_name_en": "CA MAU SEAFOOD PROCESSING AND SERVICE JOINT STOCK CORPORATION", "short_name": null, "incorporation_date": "2006-10-10", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 04, duong Nguyen Cong Tru, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 04, duong Nguyen Cong Tru, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0780.3839363; 3835805", "website": "www.cases.com.vn", "number_of_empl": 300, "amendment_date": "2015-09-30", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 64, "nbrs_id": "7833", "registration_tax_code": "2000110221", "nbrs_code": "0000196169", "company_name_vn": "CÔNG TY CP THƯƠNG NGHIỆP CÀ MAU", "company_name_en": "CAMAU TRADING  JOINT STOCK COMPANY", "short_name": "CAMEX", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "SC", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 65, "nbrs_id": "7909", "registration_tax_code": "2000761784", "nbrs_code": null, "company_name_vn": "CONG TY TNHH DAI PHAT TIN", "company_name_en": "DAI PHAT TIN COMPANY LIMITED", "short_name": null, "incorporation_date": "2009-07-22", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 333, duong Ly Thuong Kiet, khom 7, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: So 333, duong Ly Thuong Kiet, khom 7, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": null, "website": null, "number_of_empl": 5, "amendment_date": "2017-06-24", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 66, "nbrs_id": "7925", "registration_tax_code": "2000470104", "nbrs_code": null, "company_name_vn": "CONG TY TNHH ANH KHOA", "company_name_en": "ANH KHOA COMPANY LIMITED", "short_name": null, "incorporation_date": "2007-01-15", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 335A, duong Ly Thuong Kiet, khom 7, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: So 335A, duong Ly Thuong Kiet, khom 7, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": null, "website": null, "number_of_empl": 100, "amendment_date": "2016-06-01", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 67, "nbrs_id": "7936", "registration_tax_code": "2000470697", "nbrs_code": null, "company_name_vn": "CONG TY TNHH CHE BIEN THUY SAN XUAT NHAP KHAU VAN PHU", "company_name_en": "VAN PHU SEAFOOD PROCESSING IMPORT - EXPORT CO.,LTD", "short_name": null, "incorporation_date": "2007-03-06", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 51F, khu tap the dong lanh Ca Mau, duong Nguyen Tat Thanh, khom 8, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam", "registered_address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 51F, khu tap the dong lanh Ca Mau, duong Nguyen Tat Thanh, khom 8, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)", "phone_number": "0290 3835227", "website": null, "number_of_empl": 20, "amendment_date": "2017-06-27", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 68, "nbrs_id": "8685", "registration_tax_code": "0800376668", "nbrs_code": "0000205540", "company_name_vn": "CÔNG TY CỔ PHẦN VINA FOOD I HẢI DƯƠNG", "company_name_en": "HAI DUONG VINA FOOD I JOINT STOCK COMPANY", "short_name": "VINA FOOD I HẢI DƯƠNG", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "SC", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 69, "nbrs_id": "8799", "registration_tax_code": "0800292866", "nbrs_code": null, "company_name_vn": "DOANH NGHIEP TU NHAN KINH DOANH THUONG MAI PHUC LIEN", "company_name_en": null, "short_name": null, "incorporation_date": "2004-12-17", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Private enterprise", "registered_address_vn": "so nha 195, dai lo Le Thanh Nghi, Phuong Pham Ngu Lao, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Pham Ngu Lao, (Fulltext: so nha 195, dai lo Le Thanh Nghi, Phuong Pham Ngu Lao, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3856443", "website": null, "number_of_empl": 6, "amendment_date": "2016-08-25", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 70, "nbrs_id": "8920", "registration_tax_code": "0800127238", "nbrs_code": null, "company_name_vn": "DOANH NGHIEP TU NHAN XI NGHIEP TU DOANH VAN TAI HONG LAC", "company_name_en": null, "short_name": null, "incorporation_date": "1993-01-12", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Private enterprise", "registered_address_vn": "Thon Dai Dien, Xa Hong Lac, Huyen Thanh Ha, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Thanh Ha, Ward: Xa Hong Lac, (Fulltext: Thon Dai Dien, Xa Hong Lac, Huyen Thanh Ha, Hai Duong, Vietnam)", "phone_number": "03203817097", "website": null, "number_of_empl": 15, "amendment_date": "2016-12-16", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 71, "nbrs_id": "9143", "registration_tax_code": "0800296243", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUONG MAI VA XAY DUNG TU NHAN", "company_name_en": null, "short_name": null, "incorporation_date": "2005-05-12", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Xom Quang Trung II, thon Hoang Xa, Xa Quyet Thang, Huyen Thanh Ha, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Thanh Ha, Ward: Xa Quyet Thang, (Fulltext: Xom Quang Trung II, thon Hoang Xa, Xa Quyet Thang, Huyen Thanh Ha, Hai Duong, Vietnam)", "phone_number": "0320.3511.666", "website": null, "number_of_empl": 20, "amendment_date": "2015-09-08", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 72, "nbrs_id": "9146", "registration_tax_code": "0800275469", "nbrs_code": null, "company_name_vn": "CONG TY TNHH HUNG DAO", "company_name_en": "hung dao limited company", "short_name": null, "incorporation_date": "2005-05-13", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So nha 503, Duong Tran Phu, Thi Tran Nam Sach, Huyen Nam Sach, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Nam Sach, Ward: Thi Tran Nam Sach, (Fulltext: So nha 503, Duong Tran Phu, Thi Tran Nam Sach, Huyen Nam Sach, Hai Duong, Vietnam)", "phone_number": "03203754972", "website": null, "number_of_empl": 20, "amendment_date": "2015-09-01", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 73, "nbrs_id": "9204", "registration_tax_code": "0800302190", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THIEN TON", "company_name_en": "THIEN TON COMPANY LIMITED", "short_name": null, "incorporation_date": "2005-11-21", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Cum cong nghiep Viet Hoa, Phuong Viet Hoa, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Viet Hoa, (Fulltext: Cum cong nghiep Viet Hoa, Phuong Viet Hoa, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.6293628", "website": null, "number_of_empl": 15, "amendment_date": "2015-04-03", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 74, "nbrs_id": "9599", "registration_tax_code": "0800236558", "nbrs_code": null, "company_name_vn": "CONG TY TRACH NHIEM HUU HAN LONG HAI", "company_name_en": null, "short_name": null, "incorporation_date": "2000-09-27", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Cum cong nghiep 1, Xa Gia Xuyen, Huyen Gia Loc, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Gia Loc, Ward: Xa Gia Xuyen, (Fulltext: Cum cong nghiep 1, Xa Gia Xuyen, Huyen Gia Loc, Hai Duong, Vietnam)", "phone_number": "0320.3856235", "website": null, "number_of_empl": 920, "amendment_date": "2015-02-13", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 75, "nbrs_id": "9600", "registration_tax_code": "0800237343", "nbrs_code": null, "company_name_vn": "CONG TY TRACH NHIEM HUU HAN THANG LOI", "company_name_en": null, "short_name": null, "incorporation_date": "2000-11-07", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Duong Yet Kieu, Phuong Hai Tan, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Hai Tan, (Fulltext: Duong Yet Kieu, Phuong Hai Tan, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3860892", "website": null, "number_of_empl": 70, "amendment_date": "2017-02-28", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 76, "nbrs_id": "9665", "registration_tax_code": "0800243989", "nbrs_code": "0000216321", "company_name_vn": "CÔNG TY TNHH SƠN HOÀNG", "company_name_en": null, "short_name": null, "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC2", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 77, "nbrs_id": "9669", "registration_tax_code": "0800245834", "nbrs_code": null, "company_name_vn": "CONG TY TRACH NHIEM HUU HAN NGHIA BINH", "company_name_en": null, "short_name": null, "incorporation_date": "2001-08-08", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So nha 140, pho Dien Bien Phu, Phuong Pham Ngu Lao, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Pham Ngu Lao, (Fulltext: So nha 140, pho Dien Bien Phu, Phuong Pham Ngu Lao, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3852724 - 0913350449", "website": null, "number_of_empl": 10, "amendment_date": "2016-09-22", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 78, "nbrs_id": "10055", "registration_tax_code": "0800001348", "nbrs_code": "0000220663", "company_name_vn": "CÔNG TY CỔ PHẦN KINH DOANH NƯỚC SẠCH HẢI DƯƠNG", "company_name_en": "HAI DUONG WATER JOINT STOCK COMPANY", "short_name": "HADUWACO", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "SC", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 79, "nbrs_id": "10096", "registration_tax_code": "0800374741", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN XAY DUNG VA THUONG MAI HAI LONG", "company_name_en": null, "short_name": null, "incorporation_date": "2007-03-14", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So nha 230, pho Luc Dau Giang, PhuoNg Pha Lai, Thị xã Chi Linh, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thị xã Chi Linh, Ward: PhuoNg Pha Lai, (Fulltext: So nha 230, pho Luc Dau Giang, PhuoNg Pha Lai, Thị xã Chi Linh, Hai Duong, Vietnam)", "phone_number": "03203580372", "website": null, "number_of_empl": 20, "amendment_date": "2017-09-06", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 80, "nbrs_id": "10168", "registration_tax_code": "0800388663", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN TAN HAI", "company_name_en": null, "short_name": null, "incorporation_date": "2007-11-01", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "So nha 1022, dai lo Le Thanh Nghi, Phuong Hai Tan, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Hai Tan, (Fulltext: So nha 1022, dai lo Le Thanh Nghi, Phuong Hai Tan, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3860836", "website": null, "number_of_empl": 9, "amendment_date": "2016-02-02", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 81, "nbrs_id": "10283", "registration_tax_code": "0800455119", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN XUAN LOC", "company_name_en": null, "short_name": null, "incorporation_date": "2008-07-03", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "Khu 2, Thi Tran Phu Thu, Huyen Kinh Mon, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Kinh Mon, Ward: Thi Tran Phu Thu, (Fulltext: Khu 2, Thi Tran Phu Thu, Huyen Kinh Mon, Hai Duong, Vietnam)", "phone_number": "0320.3821136", "website": null, "number_of_empl": 22, "amendment_date": "2017-03-14", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 82, "nbrs_id": "10307", "registration_tax_code": "0800281127", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MOT THANH VIEN KHAI THAC CONG TRINH THUY LOI TINH HAI DUONG", "company_name_en": "Companies Limited Liability A Member Of Eseploiting Irrigation Hai Duong Provine", "short_name": null, "incorporation_date": "2009-03-05", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with one member", "registered_address_vn": "Km so 4, Duong Nguyen Luong Bang, Phuong Viet Hoa, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Viet Hoa, (Fulltext: Km so 4, Duong Nguyen Luong Bang, Phuong Viet Hoa, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3892899", "website": null, "number_of_empl": 1509, "amendment_date": "2016-01-14", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 83, "nbrs_id": "10374", "registration_tax_code": "0800227803", "nbrs_code": null, "company_name_vn": "CONG TY TNHH SAN XUAT VAT LIEU XAY DUNG THANH CONG", "company_name_en": null, "short_name": null, "incorporation_date": "2000-02-03", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Thon Quynh Khe, Xa Kim Xuyen, Huyen Kim Thanh, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Kim Thanh, Ward: Xa Kim Xuyen, (Fulltext: Thon Quynh Khe, Xa Kim Xuyen, Huyen Kim Thanh, Hai Duong, Vietnam)", "phone_number": "0320.3720562", "website": null, "number_of_empl": 650, "amendment_date": "2016-02-25", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 84, "nbrs_id": "10429", "registration_tax_code": "0800245513", "nbrs_code": null, "company_name_vn": "CONG TY CO PHAN PHAT TRIEN QUOC TE VIET TRUNG", "company_name_en": "VIET TRUNG INTERNATIONAL DEVELOPMENT JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2001-08-07", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "Km 34, quoc lo 5A, Xa Hung Thinh, Huyen Binh Giang, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Binh Giang, Ward: Xa Hung Thinh, (Fulltext: Km 34, quoc lo 5A, Xa Hung Thinh, Huyen Binh Giang, Hai Duong, Vietnam)", "phone_number": "0320.3776555", "website": "http://www.viettrungcompany.com.vn", "number_of_empl": 240, "amendment_date": "2016-05-06", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 85, "nbrs_id": "10431", "registration_tax_code": "0800246450", "nbrs_code": null, "company_name_vn": "CONG TY TRACH NHIEM HUU HAN PHU TAN", "company_name_en": null, "short_name": null, "incorporation_date": "2001-06-15", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Thon Chau Xa, Xa Duy Tan, Huyen Kinh Mon, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Kinh Mon, Ward: Xa Duy Tan, (Fulltext: Thon Chau Xa, Xa Duy Tan, Huyen Kinh Mon, Hai Duong, Vietnam)", "phone_number": "03203.824667", "website": null, "number_of_empl": 514, "amendment_date": "2017-02-28", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 86, "nbrs_id": "10477", "registration_tax_code": "0800256875", "nbrs_code": null, "company_name_vn": "CONG TY TNHH DONG DO", "company_name_en": "DONG DO LIMITED COMPANY", "short_name": null, "incorporation_date": "2001-12-21", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 446, Duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Thanh Binh, (Fulltext: So 446, Duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "03203.891170", "website": "dongdoauto.com.vn", "number_of_empl": 50, "amendment_date": "2017-01-09", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 87, "nbrs_id": "10480", "registration_tax_code": "0800260159", "nbrs_code": null, "company_name_vn": "CONG TY TNHH TRUONG THANH", "company_name_en": null, "short_name": null, "incorporation_date": "2001-11-15", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Khu 15, Thi Tran Lai Cach, Huyen Cam Giang, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Cam Giang, Ward: Thi Tran Lai Cach, (Fulltext: Khu 15, Thi Tran Lai Cach, Huyen Cam Giang, Hai Duong, Vietnam)", "phone_number": "0320.3786424", "website": null, "number_of_empl": 9, "amendment_date": "2016-08-29", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 88, "nbrs_id": "10483", "registration_tax_code": "0800262519", "nbrs_code": null, "company_name_vn": "CONG TY TNHH THUONG MAI VA DICH VU HUNG THINH", "company_name_en": "HUNG THINH LIMITED COMPANY", "short_name": null, "incorporation_date": "2002-04-05", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Khu Dong Khe, Thi Tran Nam Sach, Huyen Nam Sach, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Nam Sach, Ward: Thi Tran Nam Sach, (Fulltext: Khu Dong Khe, Thi Tran Nam Sach, Huyen Nam Sach, Hai Duong, Vietnam)", "phone_number": "03203754440", "website": null, "number_of_empl": 30, "amendment_date": "2013-02-07", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 89, "nbrs_id": "10485", "registration_tax_code": "0800263544", "nbrs_code": null, "company_name_vn": "CONG TY TNHH DUC DUONG", "company_name_en": null, "short_name": null, "incorporation_date": "2002-06-28", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Khu 2, Thi Tran Minh Tan, Huyen Kinh Mon, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Huyen Kinh Mon, Ward: Thi Tran Minh Tan, (Fulltext: Khu 2, Thi Tran Minh Tan, Huyen Kinh Mon, Hai Duong, Vietnam)", "phone_number": "0320.3821374; 0975.996688", "website": null, "number_of_empl": 200, "amendment_date": "2017-07-13", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 90, "nbrs_id": "10486", "registration_tax_code": "0800263569", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MINH HAI", "company_name_en": "Minh Hai Limited Company", "short_name": null, "incorporation_date": "2002-06-21", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So nha 06, Duong Ngo Quyen, Phuong Cam Thuong, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Cam Thuong, (Fulltext: So nha 06, Duong Ngo Quyen, Phuong Cam Thuong, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "03203.899099", "website": null, "number_of_empl": 100, "amendment_date": "2016-06-16", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 91, "nbrs_id": "10536", "registration_tax_code": "0800265252", "nbrs_code": null, "company_name_vn": "CONG TY THUONG MAI TONG HOP HUY HA-TNHH", "company_name_en": null, "short_name": null, "incorporation_date": "2001-02-28", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Km 57, Quoc lo 5A, Phuong Ai Quoc, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Ai Quoc, (Fulltext: Km 57, Quoc lo 5A, Phuong Ai Quoc, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "03203.753997", "website": null, "number_of_empl": 50, "amendment_date": "2017-02-14", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 92, "nbrs_id": "10538", "registration_tax_code": "0800265622", "nbrs_code": null, "company_name_vn": "CONG TY TRACH NHIEM HUU HAN TOAN THANG", "company_name_en": null, "short_name": null, "incorporation_date": "2002-09-27", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So nha 245A, Duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Thanh Binh, (Fulltext: So nha 245A, Duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3897777", "website": "www.hyundaihaiduong.vn", "number_of_empl": 40, "amendment_date": "2017-06-01", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 93, "nbrs_id": "10585", "registration_tax_code": "0800269426", "nbrs_code": null, "company_name_vn": "CONG TY TNHH HOA XA", "company_name_en": "Hoa Xa Limited Company", "short_name": null, "incorporation_date": "2002-12-30", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 360, duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Thanh Binh, (Fulltext: So 360, duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3892929", "website": null, "number_of_empl": 50, "amendment_date": "2014-12-22", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 94, "nbrs_id": "10591", "registration_tax_code": "0800274056", "nbrs_code": null, "company_name_vn": "CONG TY TNHH MINH THAI", "company_name_en": null, "short_name": null, "incorporation_date": "2003-01-23", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "Ngo 77, Duong Nguyen Thi Due, Phuong Thanh Binh, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Thanh Binh, (Fulltext: Ngo 77, Duong Nguyen Thi Due, Phuong Thanh Binh, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "02203.896216", "website": null, "number_of_empl": 175, "amendment_date": "2017-09-01", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 95, "nbrs_id": "10653", "registration_tax_code": "0800283893", "nbrs_code": null, "company_name_vn": "CONG TY TRACH NHIEM HUU HAN TAN BINH", "company_name_en": null, "short_name": null, "incorporation_date": "1998-12-11", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So 144 Yet Kieu, Phuong Hai Tan, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Hai Tan, (Fulltext: So 144 Yet Kieu, Phuong Hai Tan, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0320.3862009", "website": null, "number_of_empl": 54, "amendment_date": "2016-10-12", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 96, "nbrs_id": "10752", "registration_tax_code": "0800007029", "nbrs_code": null, "company_name_vn": "CONG TY TRACH NHIEM HUU HAN TIEN TIEN", "company_name_en": "TIEN TIEN LIMITED COMPANY", "short_name": null, "incorporation_date": "1996-05-07", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Limited liability company with two or more members", "registered_address_vn": "So nha 236, Duong Nguyen Luong Bang, Phuong Pham Ngu Lao, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Pham Ngu Lao, (Fulltext: So nha 236, Duong Nguyen Luong Bang, Phuong Pham Ngu Lao, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "03203.890489", "website": null, "number_of_empl": 35, "amendment_date": "2017-10-12", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 97, "nbrs_id": "10940", "registration_tax_code": "0800734095", "nbrs_code": "0000231053", "company_name_vn": "CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ THƯƠNG MẠI VÀ SẢN XUẤT TRUNG HIẾU", "company_name_en": null, "short_name": null, "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "LLC1", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 98, "nbrs_id": "10979", "registration_tax_code": "0800287016", "nbrs_code": null, "company_name_vn": "CONG TY CO PHAN CHE TAO BOM HAI DUONG", "company_name_en": "HAIDUONG PUMP MANUFACTURING JOINT STOCK COMPANY", "short_name": null, "incorporation_date": "2004-03-24", "parent_id": null, "enterprise_status_id": "Active", "enterprise_type_id": null, "company_type": "Shareholding company", "registered_address_vn": "So 37, dai lo Ho Chi Minh, Phuong Nguyen Trai, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam", "registered_address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Nguyen Trai, (Fulltext: So 37, dai lo Ho Chi Minh, Phuong Nguyen Trai, Thanh pho Hai Duong, Hai Duong, Vietnam)", "phone_number": "0220 3852 349 / 3852314", "website": "www.hpmc.com.vn", "number_of_empl": 347, "amendment_date": "2017-06-09", "delivery_date": "2017-10-13", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-11-27 14:44:50", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 99, "nbrs_id": "11043", "registration_tax_code": "0800293316", "nbrs_code": "0000232181", "company_name_vn": "CÔNG TY CỔ PHẦN DỊCH VỤ THƯƠNG MẠI VẬN TẢI PHÚ THÀNH", "company_name_en": null, "short_name": "PHU THANH CTCP", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "SC", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  {"company_id": 100, "nbrs_id": "11056", "registration_tax_code": "0800297991", "nbrs_code": "0000232335", "company_name_vn": "CÔNG TY CỔ PHẦN SẢN XUẤT VẬT LIỆU XÂY DỰNG THÀNH CÔNG III", "company_name_en": null, "short_name": "THANH CONG III JSC", "incorporation_date": null, "parent_id": null, "enterprise_status_id": "ACT", "enterprise_type_id": "SC", "company_type": null, "registered_address_vn": null, "registered_address_en": null, "phone_number": null, "website": null, "number_of_empl": null, "amendment_date": "2017-06-06", "delivery_date": "2017-06-06", "action_code": "U", "update_sign": 0, "creation_date": "2016-05-11 18:31:35", "last_update_date": "2017-09-20 21:43:54", "delete_inc_update_sign": null}
-  { "index": {} }
-  
+[
+  {
+    "id": 31,
+    "tax_code": "2000401090",
+    "company_name_vn": "CONG TY CP THUC PHAM THUY SAN XUAT KHAU CA MAU",
+    "company_name_en": "FINE FOODS CO",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Ap Nam Dam, Xa Luong The Tran, Huyen Cai Nuoc, Tinh Ca Mau, Viet Nam",
+    "address_en": "City: Ca Mau, District: Huyen Cai Nuoc, Ward: Xa Luong The Tran, (Fulltext: Ap Nam Dam, Xa Luong The Tran, Huyen Cai Nuoc, Ca Mau, Vietnam)",
+    "phone_number": "0290.3776096 - 0290 3776089",
+    "website": "ffc.com.vn",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 35,
+    "tax_code": "2000371103",
+    "company_name_vn": "CONG TY TNHH THUONG MAI VA DICH VU VINH QUANG",
+    "company_name_en": "VINH QUANG TRADE - SERVICE CO., LTD",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "So 12 - 14, duong Trung Nhi, Phuong 2, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam",
+    "address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 2, (Fulltext: So 12 - 14, duong Trung Nhi, Phuong 2, Thanh pho Ca Mau, Ca Mau, Vietnam)",
+    "phone_number": "07803834040",
+    "website": "vinhquangcamau.com.vn",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 49,
+    "tax_code": "2000105020",
+    "company_name_vn": "CONG TY CP THUY SAN CA MAU",
+    "company_name_en": "SEAPRIMEXCO-VIETNAM",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 8, duong Cao Thang, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam",
+    "address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 8, duong Cao Thang, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)",
+    "phone_number": "0780.3831615;  3831230",
+    "website": "www.seaprimexco.com",
+    "number_of_employee": 100,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 54,
+    "tax_code": "2000101072",
+    "company_name_vn": "CONG TY CP DU LICH - DICH VU MINH HAI",
+    "company_name_en": "MINH HAI TOURIST AND SERVICES JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 01, duong Ly Bon, Phuong 4, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam",
+    "address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 4, (Fulltext: So 01, duong Ly Bon, Phuong 4, Thanh pho Ca Mau, Ca Mau, Vietnam)",
+    "phone_number": "0780.3831464",
+    "website": "dulichminhhaicamau.com",
+    "number_of_employee": 50,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 55,
+    "tax_code": "2000103908",
+    "company_name_vn": "CONG TY CP CHE BIEN THUY SAN VA XUAT NHAP KHAU CA MAU",
+    "company_name_en": "CA MAU FROZEN SEAFOOD PROCESSING IMPORT EXPORT CORPORATION",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 333, duong Cao Thang, khom 7, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam",
+    "address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 333, duong Cao Thang, khom 7, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)",
+    "phone_number": "0780.3831608",
+    "website": "Camimex.com.vn",
+    "number_of_employee": 1000,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 61,
+    "tax_code": "2000393273",
+    "company_name_vn": "CONG TY CP TAP DOAN THUY SAN MINH PHU",
+    "company_name_en": "MINH PHU SEAFOOD JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu cong nghiep phuong 8, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam",
+    "address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: Khu cong nghiep phuong 8, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)",
+    "phone_number": "0780.838262",
+    "website": "www.Minhphu.com",
+    "number_of_employee": 1500,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 63,
+    "tax_code": "2000108952",
+    "company_name_vn": "CONG TY CP CHE BIEN VA DICH VU THUY SAN CA MAU",
+    "company_name_en": "CA MAU SEAFOOD PROCESSING AND SERVICE JOINT STOCK CORPORATION",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 04, duong Nguyen Cong Tru, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam",
+    "address_en": "City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: So 04, duong Nguyen Cong Tru, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam)",
+    "phone_number": "0780.3839363; 3835805",
+    "website": "www.cases.com.vn",
+    "number_of_employee": 300,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 84,
+    "tax_code": "0800245513",
+    "company_name_vn": "CONG TY CO PHAN PHAT TRIEN QUOC TE VIET TRUNG",
+    "company_name_en": "VIET TRUNG INTERNATIONAL DEVELOPMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Km 34, quoc lo 5A, Xa Hung Thinh, Huyen Binh Giang, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Huyen Binh Giang, Ward: Xa Hung Thinh, (Fulltext: Km 34, quoc lo 5A, Xa Hung Thinh, Huyen Binh Giang, Hai Duong, Vietnam)",
+    "phone_number": "0320.3776555",
+    "website": "http://www.viettrungcompany.com.vn",
+    "number_of_employee": 240,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 86,
+    "tax_code": "0800256875",
+    "company_name_vn": "CONG TY TNHH DONG DO",
+    "company_name_en": "DONG DO LIMITED COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "So 446, Duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Thanh Binh, (Fulltext: So 446, Duong Nguyen Luong Bang, Phuong Thanh Binh, Thanh pho Hai Duong, Hai Duong, Vietnam)",
+    "phone_number": "03203.891170",
+    "website": "dongdoauto.com.vn",
+    "number_of_employee": 50,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 98,
+    "tax_code": "0800287016",
+    "company_name_vn": "CONG TY CO PHAN CHE TAO BOM HAI DUONG",
+    "company_name_en": "HAIDUONG PUMP MANUFACTURING JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 37, dai lo Ho Chi Minh, Phuong Nguyen Trai, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Nguyen Trai, (Fulltext: So 37, dai lo Ho Chi Minh, Phuong Nguyen Trai, Thanh pho Hai Duong, Hai Duong, Vietnam)",
+    "phone_number": "0220 3852 349 / 3852314",
+    "website": "www.hpmc.com.vn",
+    "number_of_employee": 347,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 110,
+    "tax_code": "0800011018",
+    "company_name_vn": "CONG TY CO PHAN DUOC VAT TU Y TE HAI DUONG",
+    "company_name_en": "HAI DUONG PHARMACEUTICAL MEDICAL MATERIAL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 102, pho Chi Lang, Phuong Nguyen Trai, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Nguyen Trai, (Fulltext: So 102, pho Chi Lang, Phuong Nguyen Trai, Thanh pho Hai Duong, Hai Duong, Vietnam)",
+    "phone_number": "0320.3853848",
+    "website": "hdpharma.vn",
+    "number_of_employee": 100,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 114,
+    "tax_code": "0800281021",
+    "company_name_vn": "CONG TY CO PHAN GIAY HAI DUONG",
+    "company_name_en": "HAI DUONG SHOES JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 1077, duong Le Thanh Nghi, Phuong Hai Tan, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Hai Tan, (Fulltext: So 1077, duong Le Thanh Nghi, Phuong Hai Tan, Thanh pho Hai Duong, Hai Duong, Vietnam)",
+    "phone_number": "0320.3860714, 3860447",
+    "website": "www.haiduongshoes.com.vn",
+    "number_of_employee": 641,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 127,
+    "tax_code": "0800001972",
+    "company_name_vn": "CONG TY CO PHAN LILAMA 69-3",
+    "company_name_en": "LILAMA 69-3 JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 515, duong Dien Bien Phu,, Phuong Binh Han, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Binh Han, (Fulltext: So 515, duong Dien Bien Phu,, Phuong Binh Han, Thanh pho Hai Duong, Hai Duong, Vietnam)",
+    "phone_number": "0320.3852584",
+    "website": "www.lilama69-3.com.vn",
+    "number_of_employee": 1790,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 129,
+    "tax_code": "0800064718",
+    "company_name_vn": "CONG TY CO PHAN TRUC THON",
+    "company_name_en": "TRUC THON  JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Thon Truc, PhuoNg Cong Hoa, Thị xã Chi Linh, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thị xã Chi Linh, Ward: PhuoNg Cong Hoa, (Fulltext: Thon Truc, PhuoNg Cong Hoa, Thị xã Chi Linh, Hai Duong, Vietnam)",
+    "phone_number": "03203.882243",
+    "website": "www.tructhon.com.vn",
+    "number_of_employee": 90,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 135,
+    "tax_code": "0800285844",
+    "company_name_vn": "CONG TY CO PHAN DA MAI HAI DUONG",
+    "company_name_en": "HAIDUONG GRINDING WHEELS JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 314, duong Dien Bien Phu, Phuong Binh Han, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Binh Han, (Fulltext: So 314, duong Dien Bien Phu, Phuong Binh Han, Thanh pho Hai Duong, Hai Duong, Vietnam)",
+    "phone_number": "0320.3853790",
+    "website": "www.damahad.com.vn",
+    "number_of_employee": 460,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 137,
+    "tax_code": "0800373586",
+    "company_name_vn": "CONG TY CO PHAN NHUA VA MOI TRUONG XANH AN PHAT",
+    "company_name_en": "AN PHAT PLASTIC AND GREEN ENVIRONMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Lo CN11+CN12, cum Cong nghiep An Dong, Thi Tran Nam Sach, Huyen Nam Sach, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Huyen Nam Sach, Ward: Thi Tran Nam Sach, (Fulltext: Lo CN11+CN12, cum Cong nghiep An Dong, Thi Tran Nam Sach, Huyen Nam Sach, Hai Duong, Vietnam)",
+    "phone_number": "03203755997- 3755998",
+    "website": "www.anphatplastic.com",
+    "number_of_employee": 950,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 138,
+    "tax_code": "0800376530",
+    "company_name_vn": "CONG TY CO PHAN SONG DA CAO CUONG",
+    "company_name_en": "SONG DA CAO CUONG JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Km 28+100m, Quoc lo 18, PhuoNg Pha Lai, Thị xã Chi Linh, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thị xã Chi Linh, Ward: PhuoNg Pha Lai, (Fulltext: Km 28+100m, Quoc lo 18, PhuoNg Pha Lai, Thị xã Chi Linh, Hai Duong, Vietnam)",
+    "phone_number": "0320.3580414",
+    "website": "www.songdacaocuong.vn",
+    "number_of_employee": 395,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 139,
+    "tax_code": "0800289052",
+    "company_name_vn": "CONG TY CO PHAN XAY DUNG CHIU LUA BURWITZ",
+    "company_name_en": "BURWITZ REFRACTORY COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So nha 50, duong Hoang Ngan, Phuong Nhi Chau, Thanh pho Hai Duong, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thanh pho Hai Duong, Ward: Phuong Nhi Chau, (Fulltext: So nha 50, duong Hoang Ngan, Phuong Nhi Chau, Thanh pho Hai Duong, Hai Duong, Vietnam)",
+    "phone_number": "0220 3838 599",
+    "website": "www.brcvietnam.com",
+    "number_of_employee": 39,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 142,
+    "tax_code": "0800296853",
+    "company_name_vn": "CONG TY CO PHAN NHIET DIEN PHA LAI",
+    "company_name_en": "Pha Lai thermal power joint stock company",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "PhuoNg Pha Lai, Thị xã Chi Linh, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Thị xã Chi Linh, Ward: PhuoNg Pha Lai, (Fulltext: PhuoNg Pha Lai, Thị xã Chi Linh, Hai Duong, Vietnam)",
+    "phone_number": "0320.3881126",
+    "website": "www.ppc.evn.vn",
+    "number_of_employee": 300,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 143,
+    "tax_code": "0800384651",
+    "company_name_vn": "CONG TY CO PHAN THEP HOA PHAT",
+    "company_name_en": "HOA PHAT STEEL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Xa Hiep Son, Huyen Kinh Mon, Tinh Hai Duong, Viet Nam",
+    "address_en": "City: Hai Duong, District: Huyen Kinh Mon, Ward: Xa Hiep Son, (Fulltext: Xa Hiep Son, Huyen Kinh Mon, Hai Duong, Vietnam)",
+    "phone_number": "03203.534578",
+    "website": "hoaphat.com.vn",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 174,
+    "tax_code": "2700224471",
+    "company_name_vn": "CONG TY CO PHAN PHAN LAN NINH BINH",
+    "company_name_en": "NINH BINH PHOSPHATE FERTILIZER JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Thon Bo Dau, Xa Ninh An, Huyen Hoa Lu, Tinh Ninh Binh, Viet Nam",
+    "address_en": "City: Ninh Binh, District: Huyen Hoa Lu, Ward: Xa Ninh An, (Fulltext: Thon Bo Dau, Xa Ninh An, Huyen Hoa Lu, Ninh Binh, Vietnam)",
+    "phone_number": "030-3610024 ; 030-3610862",
+    "website": "Niferco.com.vn",
+    "number_of_employee": 450,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 175,
+    "tax_code": "2700224390",
+    "company_name_vn": "CONG TY CO PHAN CO KHI LAP MAY LILAMA",
+    "company_name_en": "ERECTION MECHANICAL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 72 E, duong Hoang Dieu,, Phuong Thanh Binh, Thanh pho Ninh Binh, Tinh Ninh Binh, Viet Nam",
+    "address_en": "City: Ninh Binh, District: Thanh pho Ninh Binh, Ward: Phuong Thanh Binh, (Fulltext: So 72 E, duong Hoang Dieu,, Phuong Thanh Binh, Thanh pho Ninh Binh, Ninh Binh, Vietnam)",
+    "phone_number": "0303871125; 0303875305",
+    "website": "http://www.lilamaemc.com.vn",
+    "number_of_employee": 600,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 205,
+    "tax_code": "2700281328",
+    "company_name_vn": "CONG TY TNHH DAU TU VA THUONG MAI NAM PHUONG",
+    "company_name_en": "NAM PHUONG INVESTMENT AND TRADING COMPANY LIMITED",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with one member",
+    "address_vn": "Km so 7, cum Cong nghiep Mai Son, Xa Mai Son, Huyen Yen Mo, Tinh Ninh Binh, Viet Nam",
+    "address_en": "City: Ninh Binh, District: Huyen Yen Mo, Ward: Xa Mai Son, (Fulltext: Km so 7, cum Cong nghiep Mai Son, Xa Mai Son, Huyen Yen Mo, Ninh Binh, Vietnam)",
+    "phone_number": "0302222666",
+    "website": "cementvietnam.com.vn",
+    "number_of_employee": 15,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 235,
+    "tax_code": "2800142141",
+    "company_name_vn": "CONG TY CO PHAN CONG NONG NGHIEP TIEN NONG",
+    "company_name_en": "TIEN NONG INDUSTRIAL & AGRICULTURAL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 274B duong Ba trieu, Phuong Dong Tho, Thanh pho Thanh Hoa, Tinh Thanh Hoa, Viet Nam",
+    "address_en": "City: Thanh Hoa, District: Thanh pho Thanh Hoa, Ward: Phuong Dong Tho, (Fulltext: So 274B duong Ba trieu, Phuong Dong Tho, Thanh pho Thanh Hoa, Thanh Hoa, Vietnam)",
+    "phone_number": "0373729729",
+    "website": "www.tiennong.vn",
+    "number_of_employee": 297,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 254,
+    "tax_code": "2800772376",
+    "company_name_vn": "CONG TY CO PHAN THANH HOA - SONG DA",
+    "company_name_en": "SONG DA-THANH HOA JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "25 Dai Lo Le Loi, Phuong Lam Son, Thanh pho Thanh Hoa, Tinh Thanh Hoa, Viet Nam",
+    "address_en": "City: Thanh Hoa, District: Thanh pho Thanh Hoa, Ward: Phuong Lam Son, (Fulltext: 25 Dai Lo Le Loi, Phuong Lam Son, Thanh pho Thanh Hoa, Thanh Hoa, Vietnam)",
+    "phone_number": "0373.852230",
+    "website": "thanhhoasongda.com.vn",
+    "number_of_employee": 100,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 271,
+    "tax_code": "2800232620",
+    "company_name_vn": "CONG TY CO PHAN XI MANG BIM SON",
+    "company_name_en": "BIM SON CEMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu pho 7, Phuong Ba Dinh, Thi xa Bim Son, Tinh Thanh Hoa, Viet Nam",
+    "address_en": "City: Thanh Hoa, District: Thi xa Bim Son, Ward: Phuong Ba Dinh, (Fulltext: Khu pho 7, Phuong Ba Dinh, Thi xa Bim Son, Thanh Hoa, Vietnam)",
+    "phone_number": "0373. 824 242",
+    "website": "Ximangbimson.com.vn",
+    "number_of_employee": 2595,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 293,
+    "tax_code": "2800233984",
+    "company_name_vn": "CONG TY CO PHAN XAY DUNG SO 5",
+    "company_name_en": "CONSTRUCTION JOINT STOCK COMPANY - NO5",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 203 Tran Phu, Phuong Ba Dinh, Thi xa Bim Son, Tinh Thanh Hoa, Viet Nam",
+    "address_en": "City: Thanh Hoa, District: Thi xa Bim Son, Ward: Phuong Ba Dinh, (Fulltext: So 203 Tran Phu, Phuong Ba Dinh, Thi xa Bim Son, Thanh Hoa, Vietnam)",
+    "phone_number": "037.3824.876; 0373825001",
+    "website": "www.vina5.vn",
+    "number_of_employee": 50,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 302,
+    "tax_code": "1000339080",
+    "company_name_vn": "CONG TY TNHH HUNG CUC",
+    "company_name_en": "HUNG CUC COMPANY LIMITED",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "Lo dat dien tich 25.019 m2, cum cong nghiep Xuan Quang, Xa Dong Xuan, Huyen Dong Hung, Tinh Thai Binh, Viet Nam",
+    "address_en": "City: Thai Binh, District: Huyen Dong Hung, Ward: Xa Dong Xuan, (Fulltext: Lo dat dien tich 25.019 m2, cum cong nghiep Xuan Quang, Xa Dong Xuan, Huyen Dong Hung, Thai Binh, Vietnam)",
+    "phone_number": "02273.795.777",
+    "website": "www.gaohungcuc.com",
+    "number_of_employee": 120,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 318,
+    "tax_code": "1000282691",
+    "company_name_vn": "CONG TY CO PHAN SAO MAI",
+    "company_name_en": "SAOMAI JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So nha 577, duong Ly Thai To, Phuong Quang Trung, Thanh pho Thai Binh, Tinh Thai Binh, Viet Nam",
+    "address_en": "City: Thai Binh, District: Thanh pho Thai Binh, Ward: Phuong Quang Trung, (Fulltext: So nha 577, duong Ly Thai To, Phuong Quang Trung, Thanh pho Thai Binh, Thai Binh, Vietnam)",
+    "phone_number": "0363.833216",
+    "website": "www.duocsaomai.com",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 329,
+    "tax_code": "1000360205",
+    "company_name_vn": "CONG TY CO PHAN MAY XUAT KHAU VIET THAI",
+    "company_name_en": "VIET THAI GARMENT EXPORT  JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 142, pho Quang Trung, Phuong Tran Hung Dao, Thanh pho Thai Binh, Tinh Thai Binh, Viet Nam",
+    "address_en": "City: Thai Binh, District: Thanh pho Thai Binh, Ward: Phuong Tran Hung Dao, (Fulltext: So 142, pho Quang Trung, Phuong Tran Hung Dao, Thanh pho Thai Binh, Thai Binh, Vietnam)",
+    "phone_number": "0363.831.686 - 0363.831.567",
+    "website": "www.vitexco-gar.com.vn",
+    "number_of_employee": 1800,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 336,
+    "tax_code": "1000214927",
+    "company_name_vn": "CONG TY CO PHAN GACH OP LAT THAI BINH",
+    "company_name_en": "THAI BINH CERAMIC TILES JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Lo dat 33954,4m2, Xa Dong Lam, Huyen Tien Hai, Tinh Thai Binh, Viet Nam",
+    "address_en": "City: Thai Binh, District: Huyen Tien Hai, Ward: Xa Dong Lam, (Fulltext: Lo dat 33954,4m2, Xa Dong Lam, Huyen Tien Hai, Thai Binh, Vietnam)",
+    "phone_number": "0363.823.682",
+    "website": "www.ceramiclonghau.com",
+    "number_of_employee": 260,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 340,
+    "tax_code": "1000215462",
+    "company_name_vn": "CONG TY CO PHAN TONG CONG TY GIONG CAY TRONG THAI BINH",
+    "company_name_en": "THAI BINH SEED JOINT STOCK CORPORATION",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 36, pho Quang Trung, Phuong Tran Hung Dao, Thanh pho Thai Binh, Tinh Thai Binh, Viet Nam",
+    "address_en": "City: Thai Binh, District: Thanh pho Thai Binh, Ward: Phuong Tran Hung Dao, (Fulltext: So 36, pho Quang Trung, Phuong Tran Hung Dao, Thanh pho Thai Binh, Thai Binh, Vietnam)",
+    "phone_number": "0363.830.613",
+    "website": "www.thaibinhseed.com",
+    "number_of_employee": 302,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 346,
+    "tax_code": "1000389853",
+    "company_name_vn": "CONG TY CO PHAN DAMSAN",
+    "company_name_en": "DAMSAN JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Lo A4, duong Bui Vien, khu cong nghiep Nguyen Duc Canh, Phuong Tran Hung Dao, Thanh pho Thai Binh, Tinh Thai Binh, Viet Nam",
+    "address_en": "City: Thai Binh, District: Thanh pho Thai Binh, Ward: Phuong Tran Hung Dao, (Fulltext: Lo A4, duong Bui Vien, khu cong nghiep Nguyen Duc Canh, Phuong Tran Hung Dao, Thanh pho Thai Binh, Thai Binh, Vietnam)",
+    "phone_number": "0363.642.311",
+    "website": "damsanjsc.vn",
+    "number_of_employee": 600,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 354,
+    "tax_code": "5000122053",
+    "company_name_vn": "CONG TY CO PHAN MIA DUONG SON DUONG",
+    "company_name_en": "SON DUONG SUGAR AND SUGARCANE JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Thon Trai Mit, Xa Hao Phu, Huyen Son Duong, Tinh Tuyen Quang, Viet Nam",
+    "address_en": "City: Tuyen Quang, District: Huyen Son Duong, Ward: Xa Hao Phu, (Fulltext: Thon Trai Mit, Xa Hao Phu, Huyen Son Duong, Tuyen Quang, Vietnam)",
+    "phone_number": "0273 832 148",
+    "website": "www.sonsuco.com.vn",
+    "number_of_employee": 620,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 395,
+    "tax_code": "3900210492",
+    "company_name_vn": "CONG TY TRACH NHIEM HUU HAN THUONG MAI, DICH VU, SAN XUAT, XUAT NHAP KHAU DUC THANH",
+    "company_name_en": "DUC THANH CO.,LTD",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "So 785-787, Duong Cach Mang Thang Tam, Khu pho 2, Phuong 3, Thanh pho Tay Ninh, Tinh Tay Ninh, Viet Nam",
+    "address_en": "City: Tay Ninh, District: Thanh pho Tay Ninh, Ward: Phuong 3, (Fulltext: So 785-787, Duong Cach Mang Thang Tam, Khu pho 2, Phuong 3, Thanh pho Tay Ninh, Tay Ninh, Vietnam)",
+    "phone_number": "066.3822044 - 0913742971",
+    "website": "www.ducthanhtayninh.com",
+    "number_of_employee": 54,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 405,
+    "tax_code": "3900358146",
+    "company_name_vn": "CONG TY TNHH SAN XUAT XAY DUNG - THUONG MAI VA DICH VU HUYNH ANH",
+    "company_name_en": "HUYNH ANH CO., LTD",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "So 640 - 642, duong 30/4 khu pho Hiep Thanh, Phuong Hiep Ninh, Thanh pho Tay Ninh, Tinh Tay Ninh, Viet Nam",
+    "address_en": "City: Tay Ninh, District: Thanh pho Tay Ninh, Ward: Phuong Hiep Ninh, (Fulltext: So 640 - 642, duong 30/4 khu pho Hiep Thanh, Phuong Hiep Ninh, Thanh pho Tay Ninh, Tay Ninh, Vietnam)",
+    "phone_number": "(066)3632222",
+    "website": "www.huynhanh.vn",
+    "number_of_employee": 22,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 415,
+    "tax_code": "3900377117",
+    "company_name_vn": "CONG TY TNHH TAN TRUONG HUNG",
+    "company_name_en": "TAN TRUONG HUNG CO.,LTD",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "Ap Thanh Hiep, Xa Thanh Bac, Huyen Tan Bien, Tinh Tay Ninh, Viet Nam",
+    "address_en": "City: Tay Ninh, District: Huyen Tan Bien, Ward: Xa Thanh Bac, (Fulltext: Ap Thanh Hiep, Xa Thanh Bac, Huyen Tan Bien, Tay Ninh, Vietnam)",
+    "phone_number": "066.3746155",
+    "website": "www.tantruonghung.net",
+    "number_of_employee": 120,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 429,
+    "tax_code": "3900441450",
+    "company_name_vn": "CONG TY TNHH  HOA CHAT & MOI TRUONG VU HOANG",
+    "company_name_en": "VU HOANG CHEMICAL AND ENVIRONMENT CO., LTD",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "Lo 109, KCX & CN Linh Trung III, Xa An Tinh, Huyen Trang Bang, Tinh Tay Ninh, Viet Nam",
+    "address_en": "City: Tay Ninh, District: Huyen Trang Bang, Ward: Xa An Tinh, (Fulltext: Lo 109, KCX & CN Linh Trung III, Xa An Tinh, Huyen Trang Bang, Tay Ninh, Vietnam)",
+    "phone_number": "066.3899076 - 0908342323",
+    "website": "vuhoangchem.com",
+    "number_of_employee": 313,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 438,
+    "tax_code": "3900682495",
+    "company_name_vn": "CONG TY CO PHAN THANH VU TAY NINH",
+    "company_name_en": "THANH VU TAY NINH JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "To 7, khu pho 4, Thi Tran Chau Thanh, Huyen Chau Thanh, Tinh Tay Ninh, Viet Nam",
+    "address_en": "City: Tay Ninh, District: Huyen Chau Thanh, Ward: Thi Tran Chau Thanh, (Fulltext: To 7, khu pho 4, Thi Tran Chau Thanh, Huyen Chau Thanh, Tay Ninh, Vietnam)",
+    "phone_number": "066.3878876 - 0908273747",
+    "website": "www.tvstarch.com.vn",
+    "number_of_employee": 120,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 461,
+    "tax_code": "4600310787",
+    "company_name_vn": "CONG TY CO PHAN THUONG MAI THAI HUNG",
+    "company_name_en": "THAI HUNG TRADING JOINT-STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "To 14, Phuong Gia Sang, Thanh pho Thai Nguyen, Tinh Thai Nguyen, Viet Nam",
+    "address_en": "City: Thai Nguyen, District: Thanh pho Thai Nguyen, Ward: Phuong Gia Sang, (Fulltext: To 14, Phuong Gia Sang, Thanh pho Thai Nguyen, Thai Nguyen, Vietnam)",
+    "phone_number": "02803 855276 -  02803 852784",
+    "website": "www.thaihung.com.vn",
+    "number_of_employee": 275,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 463,
+    "tax_code": "4600341471",
+    "company_name_vn": "CONG TY CO PHAN THUONG MAI & KHAI THAC KHOANG SAN DUONG HIEU",
+    "company_name_en": "DUONG HIEU TRADING AND MINING JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So nha 463/1, duong Cach Mang Thang 8, to 16A, Phuong Huong Son, Thanh pho Thai Nguyen, Tinh Thai Nguyen, Viet Nam",
+    "address_en": "City: Thai Nguyen, District: Thanh pho Thai Nguyen, Ward: Phuong Huong Son, (Fulltext: So nha 463/1, duong Cach Mang Thang 8, to 16A, Phuong Huong Son, Thanh pho Thai Nguyen, Thai Nguyen, Vietnam)",
+    "phone_number": "02083 832 410",
+    "website": "www.duonghieu.com.vn",
+    "number_of_employee": 50,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 509,
+    "tax_code": "4600355393",
+    "company_name_vn": "CONG TY CO PHAN CO KHI PHO YEN",
+    "company_name_en": "PHO YEN MECHANICAL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "To dan pho Bong Hong, Phuong Bai Bong, Thi xa Pho Yen, Tinh Thai Nguyen, Viet Nam",
+    "address_en": "City: Thai Nguyen, District: Thi xa Pho Yen, Ward: Phuong Bai Bong, (Fulltext: To dan pho Bong Hong, Phuong Bai Bong, Thi xa Pho Yen, Thai Nguyen, Vietnam)",
+    "phone_number": "02803 863 118",
+    "website": "Fomeco.vn",
+    "number_of_employee": 940,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 517,
+    "tax_code": "4600285900",
+    "company_name_vn": "CONG TY CO PHAN  ELOVI VIET NAM",
+    "company_name_en": "ELOVI VIET NAM JSC",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu cong nghiep Nam Pho Yen, Xa Thuan Thanh, Thi xa Pho Yen, Tinh Thai Nguyen, Viet Nam",
+    "address_en": "City: Thai Nguyen, District: Thi xa Pho Yen, Ward: Xa Thuan Thanh, (Fulltext: Khu cong nghiep Nam Pho Yen, Xa Thuan Thanh, Thi xa Pho Yen, Thai Nguyen, Vietnam)",
+    "phone_number": "02803 866 632",
+    "website": "www.elovi.com",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 520,
+    "tax_code": "4600422240",
+    "company_name_vn": "CONG TY CO PHAN XI MANG LA HIEN VVMI",
+    "company_name_en": "VVMI LA HIEN CEMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Xom Cay Bong, Xa La Hien, Huyen Vo Nhai, Tinh Thai Nguyen, Viet Nam",
+    "address_en": "City: Thai Nguyen, District: Huyen Vo Nhai, Ward: Xa La Hien, (Fulltext: Xom Cay Bong, Xa La Hien, Huyen Vo Nhai, Thai Nguyen, Vietnam)",
+    "phone_number": "0280829154",
+    "website": "www.ximanglahien.com.vn",
+    "number_of_employee": 770,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 549,
+    "tax_code": "6400035110",
+    "company_name_vn": "CONG TY CO PHAN KY NGHE GO MDF BISON",
+    "company_name_en": "BISON MDF WOODEN TECHNOLOGY JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Nga ba quoc lo 14 va 14C, Xa Thuan Hanh, Huyen Dak Song, Tinh Dak Nong, Viet Nam",
+    "address_en": "City: Dak Nong, District: Huyen Dak Song, Ward: Xa Thuan Hanh, (Fulltext: Nga ba quoc lo 14 va 14C, Xa Thuan Hanh, Huyen Dak Song, Dak Nong, Vietnam)",
+    "phone_number": "05013.712713",
+    "website": "www.mdflongviet.com",
+    "number_of_employee": 20,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 585,
+    "tax_code": "5300199850",
+    "company_name_vn": "CONG TY TNHH HOA PHONG",
+    "company_name_en": "HOA PHONG CO.,LTD",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "So nha 121, duong Nguyen Hue, Phuong Pho Moi, Thanh pho Lao Cai, Tinh Lao Cai, Viet Nam",
+    "address_en": "City: Lao Cai, District: Thanh pho Lao Cai, Ward: Phuong Pho Moi, (Fulltext: So nha 121, duong Nguyen Hue, Phuong Pho Moi, Thanh pho Lao Cai, Lao Cai, Vietnam)",
+    "phone_number": "0203 830 005,  0913287358",
+    "website": "hoaphong.vn",
+    "number_of_employee": 40,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 639,
+    "tax_code": "1900315501",
+    "company_name_vn": "CONG TY TRACH NHIEM HUU HAN MOT THANH VIEN CHE BIEN THUY HAI SAN XUAT NHAP KHAU THIEN PHU",
+    "company_name_en": "THIEN PHU  EXPORT SEAFOOD PROCESSING COMPANY LIMITED",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with one member",
+    "address_vn": "So 199, Ap Xom Moi, Xa Tan Thanh, Thi xa Gia Rai, Tinh Bac Lieu, Viet Nam",
+    "address_en": "City: Bac Lieu, District: Thi xa  Gia Rai, Ward: Xa Tan Thanh, (Fulltext: So 199, Ap Xom Moi, Xa Tan Thanh, Thi xa  Gia Rai, Bac Lieu, Vietnam)",
+    "phone_number": "02913 846 778",
+    "website": "http://thienphuseafood.com.vn",
+    "number_of_employee": 253,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 643,
+    "tax_code": "1900264511",
+    "company_name_vn": "CONG TY CO PHAN THUY SAN MINH HAI",
+    "company_name_en": "MINH HAI JOINT - STOCK SEAFOODS PROCESSING COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Km 2231 Quoc lo 1A, Xa Tan Phong, Thi xa Gia Rai, Tinh Bac Lieu, Viet Nam",
+    "address_en": "City: Bac Lieu, District: Thi xa  Gia Rai, Ward: Xa Tan Phong, (Fulltext: Km 2231 Quoc lo 1A, Xa Tan Phong, Thi xa  Gia Rai, Bac Lieu, Vietnam)",
+    "phone_number": "0781.3822390",
+    "website": "http://www.seamh.com",
+    "number_of_employee": 1400,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 644,
+    "tax_code": "1900310905",
+    "company_name_vn": "CONG TY CO PHAN CHE BIEN THUY SAN XNK AU VUNG I",
+    "company_name_en": "AU VUNG ONE SEAFOOD PROCESSING IMPORT &  EXPORT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 99, Ap Xom Moi, Xa Tan Thanh, Thi xa Gia Rai, Tinh Bac Lieu, Viet Nam",
+    "address_en": "City: Bac Lieu, District: Thi xa  Gia Rai, Ward: Xa Tan Thanh, (Fulltext: So 99, Ap Xom Moi, Xa Tan Thanh, Thi xa  Gia Rai, Bac Lieu, Vietnam)",
+    "phone_number": "0781 3846799",
+    "website": "www.auvungseafood.com",
+    "number_of_employee": 355,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 647,
+    "tax_code": "1900420552",
+    "company_name_vn": "CONG TY CO PHAN CHE BIEN THUC PHAM NGOC TRI",
+    "company_name_en": "NGOCTRI SEAFOOD JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khom 3, Phuong Lang Tron, Thi xa Gia Rai, Tinh Bac Lieu, Viet Nam",
+    "address_en": "City: Bac Lieu, District: Thi xa  Gia Rai, Ward: Phuong Lang Tron, (Fulltext: Khom 3, Phuong Lang Tron, Thi xa  Gia Rai, Bac Lieu, Vietnam)",
+    "phone_number": "07813 620779",
+    "website": "www.ngctriseafood.com.vn",
+    "number_of_employee": 500,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 651,
+    "tax_code": "1900336237",
+    "company_name_vn": "CONG TY CO PHAN CHE BIEN THUY SAN & XUAT NHAP KHAU PHUONG ANH",
+    "company_name_en": "PHUONG ANH SEAFOOD PROCESSING IMPORT EXPORT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Ap Lung Sinh, Xa Dinh Thanh, Huyen Dong Hai, Tinh Bac Lieu, Viet Nam",
+    "address_en": "City: Bac Lieu, District: Huyen Dong Hai, Ward: Xa Dinh Thanh, (Fulltext: Ap Lung Sinh, Xa Dinh Thanh, Huyen Dong Hai, Bac Lieu, Vietnam)",
+    "phone_number": "07813.848.762",
+    "website": "phuonganhseafood.vn",
+    "number_of_employee": 500,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 671,
+    "tax_code": "3600559010",
+    "company_name_vn": "CONG TY CO PHAN TIEN NGA",
+    "company_name_en": "TIEN NGA JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 16, duong Phan Dang Luu, KP 7, Phuong Long Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Long Binh, (Fulltext: So 16, duong Phan Dang Luu, KP 7, Phuong Long Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "0612.860999",
+    "website": "www.tiennga.vn",
+    "number_of_employee": 50,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 707,
+    "tax_code": "3600630513",
+    "company_name_vn": "CONG TY CO PHAN SAN XUAT & THUONG MAI THUAN PHONG",
+    "company_name_en": "THUAN PHONG MANUFACTURING & TRADING CORPORATION",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Trung tam dich vu khu cong nghiep Amata, duong Amata, KCN Amata, Phuong Long Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Long Binh, (Fulltext: Trung tam dich vu khu cong nghiep Amata, duong Amata, KCN Amata, Phuong Long Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "0616 278 888",
+    "website": "tpc.net.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 811,
+    "tax_code": "3600259296",
+    "company_name_vn": "CONG TY CO PHAN CAP NUOC DONG NAI",
+    "company_name_en": "DONG NAI WATER JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 48, duong Cach mang thang Tam, Phuong Quyet Thang, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Quyet Thang, (Fulltext: So 48, duong Cach mang thang Tam, Phuong Quyet Thang, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3843316",
+    "website": "dowaco.vn",
+    "number_of_employee": 835,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 813,
+    "tax_code": "3600274914",
+    "company_name_vn": "CONG TY CO PHAN MOI TRUONG SONADEZI",
+    "company_name_en": "SONADEZI ENVIRONMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 12, duong Huynh Van Nghe, Phuong Buu Long, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Buu Long, (Fulltext: So 12, duong Huynh Van Nghe, Phuong Buu Long, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3951771-061.3952505",
+    "website": "sonaenco.com.vn",
+    "number_of_employee": 754,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 814,
+    "tax_code": "3600275107",
+    "company_name_vn": "CONG TY CO PHAN XAY DUNG VA SAN XUAT VAT LIEU XAY DUNG BIEN HOA",
+    "company_name_en": "BIEN HOA BUILDING MATERIALS PRODUCTION AND CONSTRUCTION JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "K4/79C, Nguyen Tri Phuong, KP 3, Phuong Buu Hoa, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Buu Hoa, (Fulltext: K4/79C, Nguyen Tri Phuong, KP 3, Phuong Buu Hoa, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3859358",
+    "website": "bbcc.com.vn",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 817,
+    "tax_code": "3600283394",
+    "company_name_vn": "CONG TY CO PHAN TONG CONG TY TIN NGHIA",
+    "company_name_en": "TIN NGHIA CORPORATION",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 96, duong Ha Huy Giap, Phuong Quyet Thang, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Quyet Thang, (Fulltext: So 96, duong Ha Huy Giap, Phuong Quyet Thang, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3824369",
+    "website": "www.tinnghiacorp.com.vn",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 824,
+    "tax_code": "3602288905",
+    "company_name_vn": "CONG TY TNHH MOT THANH VIEN DAU KHI PHU HOA PHAT",
+    "company_name_en": "PHU HOA PHAT PETRO COMPANY LIMITED",
+    "company_status": null,
+    "enterprise_type": null,
+    "company_type": "Limited liability company with one member",
+    "address_vn": "Van phong giao dich: KV Cau cang so 2, cang Long Binh Tan, Phuong Long Binh Tan, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Long Binh Tan, (Fulltext: Van phong giao dich: KV Cau cang so 2, cang Long Binh Tan, Phuong Long Binh Tan, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "0913813095",
+    "website": "www.dopetrad.com.vn",
+    "number_of_employee": 5,
+    "action_code": "I",
+    "update_sign": 0
+  },
+  {
+    "id": 831,
+    "tax_code": "3602209420",
+    "company_name_vn": "CONG TY CO PHAN XAY LAP SONACONS",
+    "company_name_en": "SONACONS CONSTRUCTION JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 3, KCN Bien Hoa 1, duong so 3, Phuong An Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong An Binh, (Fulltext: So 3, KCN Bien Hoa 1, duong so 3, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "0903901482",
+    "website": "www.sonacons.com.vn",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 837,
+    "tax_code": "3600869728",
+    "company_name_vn": "CONG TY CO PHAN  CO KHI LUYEN KIM",
+    "company_name_en": "MECHANICAL ENGINEERING & METALLURGY JOINT-STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Duong so 2, KCN Bien Hoa 1, Phuong An Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong An Binh, (Fulltext: Duong so 2, KCN Bien Hoa 1, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3836170",
+    "website": "sadakim.jsc.com",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 840,
+    "tax_code": "3600908141",
+    "company_name_vn": "CONG TY CO PHAN KHO VAN SONG KIM LOC",
+    "company_name_en": "SONG KIM LOC LOGISTICS CORPORATION",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Cum Cong nghiep Doc 47, Xa  Tam Phuoc, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Xa  Tam Phuoc, (Fulltext: Cum Cong nghiep Doc 47, Xa  Tam Phuoc, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3510314",
+    "website": "www.otrangroup.com",
+    "number_of_employee": 40,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 847,
+    "tax_code": "3600254266",
+    "company_name_vn": "CONG TY CO PHAN TONG HOP GO TAN MAI",
+    "company_name_en": "TAN MAI GENERAL WOOD JOINT - STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 84, duong Nguyen Van Hoa, Phuong Thong Nhat, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Thong Nhat, (Fulltext: So 84, duong Nguyen Van Hoa, Phuong Thong Nhat, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3822258",
+    "website": "www.wood-tanmai.com.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 848,
+    "tax_code": "3600256545",
+    "company_name_vn": "CONG TY CO PHAN MIEN DONG",
+    "company_name_en": "MIEN DONG JOINT- STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "duong so 1, KCN Bien Hoa 1, Phuong An Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong An Binh, (Fulltext: duong so 1, KCN Bien Hoa 1, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3836371",
+    "website": "www.miendong.com.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 851,
+    "tax_code": "3600259560",
+    "company_name_vn": "CONG TY CO PHAN PHAT TRIEN DO THI CONG NGHIEP SO 2",
+    "company_name_en": "INDUSTRIAL URBAN DEVELOPMENT JOINT - STOCK COMPANY NO 2",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "H22, duong Vo Thi Sau, Phuong Thong Nhat, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Thong Nhat, (Fulltext: H22, duong Vo Thi Sau, Phuong Thong Nhat, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "0251.3817768",
+    "website": "www.d2d.com.vn",
+    "number_of_employee": 80,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 852,
+    "tax_code": "3600260196",
+    "company_name_vn": "CONG TY CO PHAN  TAP DOAN TAN MAI",
+    "company_name_en": "TAN MAI GROUP JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Duong so 11, Khu cong nghiep Bien Hoa 1, Phuong An Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong An Binh, (Fulltext: Duong so 11, Khu cong nghiep Bien Hoa 1, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3836201",
+    "website": "www.tanmaipaper.com",
+    "number_of_employee": 3,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 853,
+    "tax_code": "3600262193",
+    "company_name_vn": "CONG TY CO PHAN HOA VIET",
+    "company_name_en": "HOA VIET JOINT-STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "KP 8, Phuong Long Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Long Binh, (Fulltext: KP 8, Phuong Long Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3981631",
+    "website": "www.hoavietjsc.com",
+    "number_of_employee": 3,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 854,
+    "tax_code": "3600267730",
+    "company_name_vn": "CONG TY CO PHAN NONG SUC SAN DONG NAI",
+    "company_name_en": "DONG NAI AGRICULTURAL LIVESTOCK PRODUCT JOINT - STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "238, duong Nguyen Ai Quoc, Phuong Tan Hiep, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Tan Hiep, (Fulltext: 238, duong Nguyen Ai Quoc, Phuong Tan Hiep, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3899790",
+    "website": "www.dolicovn.com",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 874,
+    "tax_code": "3600642822",
+    "company_name_vn": "CONG TY CO PHAN BOT GIAT NET",
+    "company_name_en": "NET DETERGENT JOINT -STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Duong D4, KCN Loc An - Binh Son, Xa Binh Son, Huyen Long Thanh, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Huyen Long Thanh, Ward: Xa Binh Son, (Fulltext: Duong D4, KCN Loc An - Binh Son, Xa Binh Son, Huyen Long Thanh, Dong Nai, Vietnam)",
+    "phone_number": "061.3682102, 061. 3682103",
+    "website": "www.netcovn.com.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 879,
+    "tax_code": "3600672023",
+    "company_name_vn": "CONG TY CO PHAN THUONG MAI DAU KHI DONG NAI",
+    "company_name_en": "DONG NAI TRADING AND PETRO CORPORATION",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Van phong giao dich: So 5, duong 11, KP9, Phuong An Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong An Binh, (Fulltext: Van phong giao dich: So 5, duong 11, KP9, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3835869",
+    "website": "dopetrad.com.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 881,
+    "tax_code": "3600245705",
+    "company_name_vn": "CONG TY TNHH SAN XUAT GACH MEN KING MINH",
+    "company_name_en": "KING MINH CERAMICS PRODUCTION CO.,LTD",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "79, Duong Bui Huu Nghia, Ap Dong Nai, Xa Hoa An, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Xa Hoa An, (Fulltext: 79, Duong Bui Huu Nghia, Ap Dong Nai, Xa Hoa An, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3859364",
+    "website": "www.kingminhceramic.com.vn",
+    "number_of_employee": 3,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 885,
+    "tax_code": "3600718503",
+    "company_name_vn": "CONG TY CO PHAN DAU TU VA KINH DOANH GOLF LONG THANH",
+    "company_name_en": "LONG THANH GOLF INVESTMENT AND TRADING JOINT - STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "ap Tan Mai 2, Xa Phuoc Tan, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Xa Phuoc Tan, (Fulltext: ap Tan Mai 2, Xa Phuoc Tan, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3512512",
+    "website": "www.longthanhgolfresort.com.vn",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 887,
+    "tax_code": "3600259810",
+    "company_name_vn": "CONG TY CO PHAN DONG TIEN",
+    "company_name_en": "DONG TIEN JOINT - STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 10, duong Phan Trung, Phuong Tan Tien, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Tan Tien, (Fulltext: So 10, duong Phan Trung, Phuong Tan Tien, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3822248",
+    "website": "dovitec.com.vn",
+    "number_of_employee": 100,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 899,
+    "tax_code": "3600648493",
+    "company_name_vn": "CONG TY CO PHAN BAO BI BIEN HOA",
+    "company_name_en": "BIEN HOA PACKAGING COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu cong nghiep Bien Hoa 1, duong so 7, Phuong An Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong An Binh, (Fulltext: Khu cong nghiep Bien Hoa 1, duong so 7, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "(061)3836121-3836122-3931009",
+    "website": "www.sovi.com.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 900,
+    "tax_code": "3601015856",
+    "company_name_vn": "CONG TY CO PHAN SAN XUAT KINH DOANH THIET BI DIEN TTC",
+    "company_name_en": "TTC ELECTRICAL EQUIPMENT PRODUCT BUSINESS JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 02 - A22, KDC An Binh, Phuong An Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong An Binh, (Fulltext: So 02 - A22, KDC An Binh, Phuong An Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "0618.830222",
+    "website": "www.thibiditrading.com",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 905,
+    "tax_code": "3600276125",
+    "company_name_vn": "CONG TY TNHH HOA BINH",
+    "company_name_en": "HOA BINH COMPANY LIMITED",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "KP 8, Phuong Long Binh, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Long Binh, (Fulltext: KP 8, Phuong Long Binh, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3983847",
+    "website": "www.hoabinhltd.com",
+    "number_of_employee": 1500,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 908,
+    "tax_code": "3601038204",
+    "company_name_vn": "CONG TY CO PHAN XANG DAU TIN NGHIA",
+    "company_name_en": "TIN NGHIA PETROL JOINT - STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "95A, duong Cach mang thang 8, Phuong Quyet Thang, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Quyet Thang, (Fulltext: 95A, duong Cach mang thang 8, Phuong Quyet Thang, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3842434",
+    "website": "www.timexpetrol.com.vn",
+    "number_of_employee": 3,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 912,
+    "tax_code": "3600276414",
+    "company_name_vn": "CONG TY CO PHAN  DU LICH DONG NAI",
+    "company_name_en": "DONG NAI TOURIST JOINT - STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "105, duong Ha Huy Giap, Phuong Quyet Thang, Thanh pho Bien Hoa, Tinh Dong Nai, Viet Nam",
+    "address_en": "City: Dong Nai, District: Thanh pho Bien Hoa, Ward: Phuong Quyet Thang, (Fulltext: 105, duong Ha Huy Giap, Phuong Quyet Thang, Thanh pho Bien Hoa, Dong Nai, Vietnam)",
+    "phone_number": "061.3810379",
+    "website": "www.dulichdongnai.com.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 921,
+    "tax_code": "4800115208",
+    "company_name_vn": "CONG TY TNHH TAP DOAN VANG BAC DA QUY KIM TIN",
+    "company_name_en": "KIM TIN GOLD SILVER GEMS GROUP",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with one member",
+    "address_vn": "So 3, pho Kim Dong, Phuong Hop Giang, Thanh pho Cao Bang, Tinh Cao Bang, Viet Nam",
+    "address_en": "City: Cao Bang, District: Thanh pho Cao Bang, Ward: Phuong Hop Giang, (Fulltext: So 3, pho Kim Dong, Phuong Hop Giang, Thanh pho Cao Bang, Cao Bang, Vietnam)",
+    "phone_number": "0206.3888888 - 0948.668888",
+    "website": "www.kimtin.com.vn",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 945,
+    "tax_code": "0101099228-002",
+    "company_name_vn": "CONG TY TRACH NHIEM HUU HAN NHUA DONG A",
+    "company_name_en": "DONG A PLASTIC COMPANY LIMITED",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with one member",
+    "address_vn": "Khu Cong nghiep Chau Son, Phuong Chau Son, Thanh pho Phu Ly, Tinh Ha Nam, Viet Nam",
+    "address_en": "City: Ha Nam, District: Thanh pho Phu Ly, Ward: Phuong Chau Son, (Fulltext: Khu Cong nghiep Chau Son, Phuong Chau Son, Thanh pho Phu Ly, Ha Nam, Vietnam)",
+    "phone_number": "03513.878.888",
+    "website": "www.dag.com.vn",
+    "number_of_employee": 285,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 947,
+    "tax_code": "0700220547",
+    "company_name_vn": "CONG TY CP DINH DUONG HONG HA",
+    "company_name_en": "HONG HA NUTRITION JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu cong nghiep Dong Van, Thi Tran Dong Van, Huyen Duy Tien, Tinh Ha Nam, Viet Nam",
+    "address_en": "City: Ha Nam, District: Huyen Duy Tien, Ward: Thi Tran Dong Van, (Fulltext: Khu cong nghiep Dong Van, Thi Tran Dong Van, Huyen Duy Tien, Ha Nam, Vietnam)",
+    "phone_number": "03513836840",
+    "website": "honghafeed.com.vn",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 950,
+    "tax_code": "0700252549",
+    "company_name_vn": "CONG TY CP KHOANG SAN FECON",
+    "company_name_en": "FECON MINING JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Cum cong nghiep Thi Son, Xa Thi Son, Huyen Kim Bang, Tinh Ha Nam, Viet Nam",
+    "address_en": "City: Ha Nam, District: Huyen Kim Bang, Ward: Xa Thi Son, (Fulltext: Cum cong nghiep Thi Son, Xa Thi Son, Huyen Kim Bang, Ha Nam, Vietnam)",
+    "phone_number": "03513533038",
+    "website": "www.feconmining.com.vn",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 951,
+    "tax_code": "0700253609",
+    "company_name_vn": "CONG TY CO PHAN NHUA CHAU AU",
+    "company_name_en": "EUROPEAN PLASTIC JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu Cong nghiep Dong Van, Thi Tran Dong Van, Huyen Duy Tien, Tinh Ha Nam, Viet Nam",
+    "address_en": "City: Ha Nam, District: Huyen Duy Tien, Ward: Thi Tran Dong Van, (Fulltext: Khu Cong nghiep Dong Van, Thi Tran Dong Van, Huyen Duy Tien, Ha Nam, Vietnam)",
+    "phone_number": "03513583123",
+    "website": "www.europlast.com.vn",
+    "number_of_employee": 100,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 958,
+    "tax_code": "0700193452",
+    "company_name_vn": "CONG TY TNHH THUONG MAI THANH AN",
+    "company_name_en": "THANH AN TRADING COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with two or more members",
+    "address_vn": "Thi Tran Binh My, Huyen Binh Luc, Tinh Ha Nam, Viet Nam",
+    "address_en": "City: Ha Nam, District: Huyen Binh Luc, Ward: Thi Tran Binh My, (Fulltext: Thi Tran Binh My, Huyen Binh Luc, Ha Nam, Vietnam)",
+    "phone_number": "0983576868",
+    "website": "www.thanhan.com.vn",
+    "number_of_employee": 9,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 991,
+    "tax_code": "3300101491",
+    "company_name_vn": "CONG TY CO PHAN CAP NUOC THUA THIEN HUE",
+    "company_name_en": "THUA THIEN HUE WATER SUPPLY JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "103 Bui Thi Xuan, Phuong Phuong Duc, Thanh pho Hue, Tinh Thua Thien Hue, Viet Nam",
+    "address_en": "City: Thua Thien Hue, District: Thanh pho Hue, Ward: Phuong Phuong Duc, (Fulltext: 103 Bui Thi Xuan, Phuong Phuong Duc, Thanh pho Hue, Thua Thien Hue, Vietnam)",
+    "phone_number": "054.3815555",
+    "website": "www.huewaco.com.vn",
+    "number_of_employee": 560,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1003,
+    "tax_code": "3300100699",
+    "company_name_vn": "CONG TY CO PHAN HUETRONICS",
+    "company_name_en": "HUETRONICS JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 3, Duong so 1, Cum Cong nghiep An Hoa, Phuong An Hoa, Thanh pho Hue, Tinh Thua Thien Hue, Viet Nam",
+    "address_en": "City: Thua Thien Hue, District: Thanh pho Hue, Ward: Phuong An Hoa, (Fulltext: So 3, Duong so 1, Cum Cong nghiep An Hoa, Phuong An Hoa, Thanh pho Hue, Thua Thien Hue, Vietnam)",
+    "phone_number": "0543.599880",
+    "website": "www.huetronics.vn",
+    "number_of_employee": 190,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1006,
+    "tax_code": "3300101406",
+    "company_name_vn": "CONG TY CO PHAN DUOC MEDIPHARCO",
+    "company_name_en": "MEDIPHARCO PHARMACEUTICAL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 8 Nguyen Truong To, Phuong Phuoc Vinh, Thanh pho Hue, Tinh Thua Thien Hue, Viet Nam",
+    "address_en": "City: Thua Thien Hue, District: Thanh pho Hue, Ward: Phuong Phuoc Vinh, (Fulltext: So 8 Nguyen Truong To, Phuong Phuoc Vinh, Thanh pho Hue, Thua Thien Hue, Vietnam)",
+    "phone_number": "054.3832814",
+    "website": "www.medipharco.com.vn",
+    "number_of_employee": 275,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1021,
+    "tax_code": "3300100628",
+    "company_name_vn": "CONG TY CO PHAN DET - MAY HUE",
+    "company_name_en": "HUE TEXTILE GARMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 122 Duong Thieu Tuoc, Phuong Thuy Duong, Thi xa Huong Thuy, Tinh Thua Thien Hue, Viet Nam",
+    "address_en": "City: Thua Thien Hue, District: Thi xa Huong Thuy, Ward: Phuong Thuy Duong, (Fulltext: So 122 Duong Thieu Tuoc, Phuong Thuy Duong, Thi xa Huong Thuy, Thua Thien Hue, Vietnam)",
+    "phone_number": "0234.3864.337",
+    "website": "www.huegatex.com.vn",
+    "number_of_employee": 3058,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1023,
+    "tax_code": "3300542464",
+    "company_name_vn": "CONG TY CO PHAN DAU TU - DET MAY THIEN AN PHAT",
+    "company_name_en": "THIEN AN PHAT TEXTILE GARMENT INVESTMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Duong so 5, cum Cong nghiep An Hoa, Phuong An Hoa, Thanh pho Hue, Tinh Thua Thien Hue, Viet Nam",
+    "address_en": "City: Thua Thien Hue, District: Thanh pho Hue, Ward: Phuong An Hoa, (Fulltext: Duong so 5, cum Cong nghiep An Hoa, Phuong An Hoa, Thanh pho Hue, Thua Thien Hue, Vietnam)",
+    "phone_number": "054.3599927",
+    "website": "www.thianco.com.vn",
+    "number_of_employee": 1475,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1050,
+    "tax_code": "2500224026",
+    "company_name_vn": "CONG TY CO PHAN VIGLACERA THANG LONG",
+    "company_name_en": "VIGLACERA THANGLONG JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Phuong Phuc Thang, Thi xa Phuc Yen, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Thi xa Phuc Yen, Ward: Phuong Phuc Thang, (Fulltext: Phuong Phuc Thang, Thi xa Phuc Yen, Vinh Phuc, Vietnam)",
+    "phone_number": "0435 811 900",
+    "website": "viglacerathanglong.com.vn",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1051,
+    "tax_code": "2500228415",
+    "company_name_vn": "CONG TY CO PHAN DUOC PHAM VINH PHUC",
+    "company_name_en": "VINHPHUC PHARMACEUTICAL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So nha 777, Duong Me Linh, Phuong Khai Quang, Thanh pho Vinh Yen, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Thanh pho Vinh Yen, Ward: Phuong Khai Quang, (Fulltext: So nha 777, Duong Me Linh, Phuong Khai Quang, Thanh pho Vinh Yen, Vinh Phuc, Vietnam)",
+    "phone_number": "0211 3 861 233/ 3 862 705",
+    "website": "http://vinphaco.com.vn",
+    "number_of_employee": 100,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1052,
+    "tax_code": "2500229828",
+    "company_name_vn": "CONG TY CO PHAN TAP DOAN SONG HONG THU DO",
+    "company_name_en": "SONGHONGTHUDO GROUP JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So nha 189, Duong Lam Son, Phuong Tich Son, Thanh pho Vinh Yen, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Thanh pho Vinh Yen, Ward: Phuong Tich Son, (Fulltext: So nha 189, Duong Lam Son, Phuong Tich Son, Thanh pho Vinh Yen, Vinh Phuc, Vietnam)",
+    "phone_number": "0211 3 777 777",
+    "website": "www.songhonghotel.com.vn",
+    "number_of_employee": 50,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1058,
+    "tax_code": "2500265061",
+    "company_name_vn": "CONG TY CO PHAN DAU TU KINH DOANH VA PHAT TRIEN HA TANG KCN PHUC HA",
+    "company_name_en": "PHUCHA  INDUCSTRIAL PARK INVESTMENT AND DEVELOPMENT J.S.C",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So nha 9, Ngo 7, Duong Tran Quoc Tuan, Phuong Ngo Quyen, Thanh pho Vinh Yen, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Thanh pho Vinh Yen, Ward: Phuong Ngo Quyen, (Fulltext: So nha 9, Ngo 7, Duong Tran Quoc Tuan, Phuong Ngo Quyen, Thanh pho Vinh Yen, Vinh Phuc, Vietnam)",
+    "phone_number": "0211 3 861 319",
+    "website": "phuchaland.com",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1065,
+    "tax_code": "2500302820",
+    "company_name_vn": "CONG TY CO PHAN  XUAN MAI - DAO TU",
+    "company_name_en": "XUANMAI DAOTU JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu pho Be Tong, Xa Dao Tu, Huyen Tam Duong, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Huyen Tam Duong, Ward: Xa Dao Tu, (Fulltext: Khu pho Be Tong, Xa Dao Tu, Huyen Tam Duong, Vinh Phuc, Vietnam)",
+    "phone_number": "0211 3 615 457/ 0904 380 030",
+    "website": "betongdaotu.com.vn",
+    "number_of_employee": 5,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1069,
+    "tax_code": "2500221949",
+    "company_name_vn": "CONG TY CO PHAN DAU TU TAM DAO",
+    "company_name_en": "TAMDAO JOINT STOCK INVESTMENT COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "., Xa Hop Chau, Huyen Tam dao, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Huyen Tam dao, Ward: Xa Hop Chau, (Fulltext: ., Xa Hop Chau, Huyen Tam dao, Vinh Phuc, Vietnam)",
+    "phone_number": "0211 3 537 143",
+    "website": "www.tamdaogolf.com",
+    "number_of_employee": 100,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1078,
+    "tax_code": "2500365531",
+    "company_name_vn": "CONG TY CO PHAN SAN XUAT THEP VIET DUC",
+    "company_name_en": "VIETNAM GERMANY STEEL MILL JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu CN Binh Xuyen, Xa Dao Duc, Huyen Binh Xuyen, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Huyen Binh Xuyen, Ward: Xa Dao Duc, (Fulltext: Khu CN Binh Xuyen, Xa Dao Duc, Huyen Binh Xuyen, Vinh Phuc, Vietnam)",
+    "phone_number": "0211 3 593 596",
+    "website": "www.thepvietduc.com.vn",
+    "number_of_employee": 20,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1103,
+    "tax_code": "2500161922",
+    "company_name_vn": "CONG TY CO PHAN XUAN HOA VIET NAM",
+    "company_name_en": "XUAN HOA VIET NAM JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Duong Nguyen Van Linh, Phuong Xuan Hoa, Thi xa Phuc Yen, Tinh Vinh Phuc, Viet Nam",
+    "address_en": "City: Vinh Phuc, District: Thi xa Phuc Yen, Ward: Phuong Xuan Hoa, (Fulltext: Duong Nguyen Van Linh, Phuong Xuan Hoa, Thi xa Phuc Yen, Vinh Phuc, Vietnam)",
+    "phone_number": "02113 863 244",
+    "website": "www.xuanhoa.com",
+    "number_of_employee": 200,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1143,
+    "tax_code": "0900108380",
+    "company_name_vn": "CONG TY CO PHAN  NHUA HUNG YEN",
+    "company_name_en": "HUNG YEN PLASTIC JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "So 115, Duong Nguyen Thien Thuat, Phuong Minh Khai, Thanh pho Hung yen, Tinh Hung Yen, Viet Nam",
+    "address_en": "City: Hung Yen, District: Thanh pho Hung yen, Ward: Phuong Minh Khai, (Fulltext: So 115, Duong Nguyen Thien Thuat, Phuong Minh Khai, Thanh pho Hung yen, Hung Yen, Vietnam)",
+    "phone_number": "03213 863107 - 03213 862468",
+    "website": "http://www.hungyenplastic.com",
+    "number_of_employee": 290,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1144,
+    "tax_code": "0900178525",
+    "company_name_vn": "CONG TY TRACH NHIEM HUU HAN MOT THANH VIEN KINH DO MIEN BAC",
+    "company_name_en": "NORTH KINH DO ONE MEMBER COMPANY LIMITED",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Limited liability company with one member",
+    "address_vn": "Km 22, Quoc lo 5A, Thi Tran Ban Yen Nhan, Huyen My Hao, Tinh Hung Yen, Viet Nam",
+    "address_en": "City: Hung Yen, District: Huyen My Hao, Ward: Thi Tran Ban Yen Nhan, (Fulltext: Km 22, Quoc lo 5A, Thi Tran Ban Yen Nhan, Huyen My Hao, Hung Yen, Vietnam)",
+    "phone_number": "0321 3942128 - 3942133",
+    "website": "www.kinhdo.vn",
+    "number_of_employee": 1400,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1146,
+    "tax_code": "0900347903",
+    "company_name_vn": "CONG TY CO PHAN  DO UONG CAO CAP THAI LAN",
+    "company_name_en": "THAILAND BEVERAGE CANS HOLDING COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Thon Ngoc Lich, Xa Trung Trac, Huyen Van Lam, Tinh Hung Yen, Viet Nam",
+    "address_en": "City: Hung Yen, District: Huyen Van Lam, Ward: Xa Trung Trac, (Fulltext: Thon Ngoc Lich, Xa Trung Trac, Huyen Van Lam, Hung Yen, Vietnam)",
+    "phone_number": "0221 3997457",
+    "website": "thaicom360.vn",
+    "number_of_employee": 10,
+    "action_code": "U",
+    "update_sign": 0
+  },
+  {
+    "id": 1148,
+    "tax_code": "0900191660",
+    "company_name_vn": "CONG TY CO PHAN DAU TU ALPHANAM",
+    "company_name_en": "ALPHANAM INVESTMENT JOINT STOCK COMPANY",
+    "company_status": "Active",
+    "enterprise_type": null,
+    "company_type": "Shareholding company",
+    "address_vn": "Khu Cong nghiep Pho Noi A, Xa Trung Trac, Huyen Van Lam, Tinh Hung Yen, Viet Nam",
+    "address_en": "City: Hung Yen, District: Huyen Van Lam, Ward: Xa Trung Trac, (Fulltext: Khu Cong nghiep Pho Noi A, Xa Trung Trac, Huyen Van Lam, Hung Yen, Vietnam)",
+    "phone_number": "0321.3980386",
+    "website": "alphanam.com.vn",
+    "number_of_employee": 500,
+    "action_code": "U",
+    "update_sign": 0
+  }
+]
