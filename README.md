@@ -4,7 +4,7 @@
 `cozy-scout` Private company information searching API with Ruby on Rails and Elasticsearch
 
 
-#### What is `Private company information`?
+#### What is `The private company information`?
 
 As you know, `Private company` is a company which isn't listed in `Stock market`.
 
