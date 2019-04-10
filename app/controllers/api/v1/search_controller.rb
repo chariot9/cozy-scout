@@ -1,22 +1,18 @@
 module Api
   module V1
+    # Search API endpoint
     class SearchController < ApplicationController
 
-      # TODO(trung) Add more params here
+      # TODO(trung): Add more params here, only :keyword is available for now.
+      # For searching, it should contains other options like location, number of employee range...
       BASIC_PARAMS = [
         :keyword
-      ]
+      ].freeze
 
       def index
-        client = Elasticsearch::Client.new log: true
-        data = client.get index: 'posts_development_20190323022602825', type: 'post', id: 5
-        render json: { status: 'SUCCESS', message: 'loaded posts', data: data }
-      end
-
-      def show
         query = search_params
         options = search_options(per: 2, page: 1)
-        results = Scout::Search.fetch(query, options)
+        results = Search::Elastic::Engine.new(query, options).fetch
         render json: results
       end
 
@@ -30,8 +26,7 @@ module Api
       end
 
       def search_params
-        params
-          .permit(BASIC_PARAMS)
+        params.permit(BASIC_PARAMS)
       end
     end
   end
