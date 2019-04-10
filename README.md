@@ -21,6 +21,7 @@ As you know, `Private company` is a company which isn't listed in `Stock market`
    +  `tax_code`: registration tax code
    +  `company_name_vn`: Company name in Vietnamese
    +  `company_name_en`: Company name in English
+   + `...`
 
 #### What is the output?
 
