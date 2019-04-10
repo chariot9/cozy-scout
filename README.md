@@ -11,13 +11,10 @@ As you know, `Private company` is a company which isn't listed in `Stock market`
 
 
 #### What is the data?
-| id | tax_code | company_name_vn | company_name_en |
-| --- | --- | --- | --- |
-9 | 2000527350 | CONG TY TNHH MOT THANH VIEN THUY SAN THIEN MA | THIMEX LTD., COMPANY
-20 | 2000413473 | CONG TY TNHH THUONG MAI NGOC ANH | NGOC ANH TRADING COMPANY LIMITED
-28 | 2000503303 | CÔNG TY TNHH CHẾ BIẾN THỦY SẢN XUẤT NHẬP KHẨU MINH CHÂU | MINH CHAU IMPORT – EXPORT SEAFOOD PROCESSING COMPANY LIMITED
-29 | 2000336035 | CONG TY CP CHE BIEN THUY SAN XUAT KHAU TAC VAN | TACVAN SEAFOODS COMPANY
-31 | 2000401090 | CONG TY CP THUC PHAM THUY SAN XUAT KHAU CA MAU | FINE FOODS CO
+| id | tax_code | company_name_vn | company_name_en | company_status | enterprise_type | company_type | address_vn | address_en | phone_number | website | number_of_employee | action_code | update_sign |
+| --- | --- | --- | --- |--- | --- | --- | --- |--- | --- | --- | --- |--- | --- |
+9 | 2000527350 | CONG TY TNHH MOT THANH VIEN THUY SAN THIEN MA | THIMEX LTD., COMPANY | Active | Limited liability company with one member | So 266C, duong Ly Thuong Kiet, khom 9, Phuong 6, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam | City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 6, (Fulltext: So 266C, duong Ly Thuong Kiet, khom 9, Phuong 6, Thanh pho Ca Mau, Ca Mau, Vietnam) | 0918.777.666 | 4 | U | 0
+20 | 2000413473 | CONG TY TNHH THUONG MAI NGOC ANH | NGOC ANH TRADING COMPANY LIMITED | Active | Limited liability company with two or more members | Lau 2, so 144, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Tinh Ca Mau, Viet Nam | City: Ca Mau, District: Thanh pho Ca Mau, Ward: Phuong 8, (Fulltext: Lau 2, so 144, duong Nguyen Tat Thanh, Phuong 8, Thanh pho Ca Mau, Ca Mau, Vietnam) | 7803.830516 | 30 | U | 0
 
 - Description: 
    +  `id`: ID of company
